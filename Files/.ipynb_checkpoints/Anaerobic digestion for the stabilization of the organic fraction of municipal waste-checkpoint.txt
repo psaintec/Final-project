@@ -1,0 +1,5218 @@
+Anaerobic digestion for the stabilization of the organic fraction of municipal waste
+
+
+
+
+
+1. Introduction
+ 
+Over the past few decades, many developing 
+countries all over the world have 
+experienced a sharp increase in population. 
+This uncontrolled population 
+growth coupled with rapid urbanization 
+and gradual rise in the per capita income 
+have led to an unprecedented increase in 
+the annual generation of municipal solid 
+waste (MSW). MSW necessarily comprises 
+market refuse, food waste (FW), 
+kitchen waste, garden waste, dead animals, 
+etc. It was reported by Kawai and 
+Tasaki (2016) that the average MSW 
+generation rate in the Organization for 
+Economic Cooperation and Development 
+(OECD), the European Union 
+(EU), and the United States of America 
+(USA) was 1.324 kg/person per day. In 
+seven South Asian countries (Maldives, 
+Sri-Lanka, Pakistan, Bhutan, 
+Bangladesh, India, and Nepal) the average 
+MSW generation rate has been 
+found to be 0.853 kg/person per day 
+with the highest generation of 2.8 kg/ 
+person per day in Maldives (Peterson 
+2013). Similarly, in 15 countries of East 
+Asia and the Pacific Islands (Solomon 
+Islands, Tonga, Mongolia, Myanmar, 
+China, Philippines, Vietnam, Indonesia, 
+Lao PDR, Thailand, Malaysia, Singapore, 
+Brunei Darussalam, Fiji, and Vanuatu) 
+the average per capita solid waste 
+generation rate has been found to be 
+1.288 kg/person per day with the highest 
+generation of 4.30 kg/person per day in 
+Solomon Islands (Hoornweg and Bhada-
+Tata 2012). The present quantity of 
+solid waste generation worldwide is 2 
+billion tons per year and is predicted to 
+increase to 3 billion tons by 2025 (Key 
+Note Publications Ltd. 2007). By 2100 
+the MSW generation rate is expected to 
+exceed 11 million tons per day (World 
+Bank 2013). Because of lack of infrastructure, 
+suitable strategies, man power, 
+and economic constraints the municipal 
+bodies in most cities of developing 
+countries have been unable to come up 
+with an effective and sustainable 
+methodology for collection and disposal 
+of MSW. As a result, these solid wastes 
+are either dumped out into open spaces, 
+in low lying areas, causing all sorts of 
+nuisance and health hazards, or are disposed 
+of into primitive sanitary landfills 
+in the outskirts of cities. In a few 
+cases, the generated MSW is also subjected 
+to composting or thermal incineration. 
+The landfilling operation of organic 
+fraction of municipal solid wastes 
+(OFMSW) is a common and widely 
+practiced mode of solid waste disposal 
+worldwide. But, with the decreasing 
+availability of land, this method is now 
+under a great challenge to manage the 
+requisite space. It is also worthy to mention 
+that a poorly managed sanitary 
+landfill for solid waste may lead to 
+many problems, such as uncontrolled 
+emission of greenhouse gases (GHG) into 
+the atmosphere evolving a catastrophic 
+scenario, generation of leachate contaminating 
+the ground water and generation 
+of disease vectors adversely affecting 
+the public health and hygiene. Composting, 
+on the other hand, is a process 
+that also requires considerable land akin 
+to sanitary landfilling. But the composting 
+facilitates the treatment of only a 
+few types of the organic waste generated 
+on a daily basis. Applications of composting 
+include: (i) yard waste, (ii) separated 
+MSW, (iii) commingled MSW, etc. 
+(Tchobanoglous et al. 1993). The product 
+obtained after composting of the 
+OFMSW is generally used up as a soil 
+conditioner, whereas landfilling operations 
+occasionally generate biogas and 
+also enhance soil fertility. Hence, the 
+scope of marketing the products after 
+the solid organic waste is subjected to 
+composting is very much limited as it is 
+a localized process. However, both composting 
+and sanitary landfilling are not 
+able to strike a balance between the generated 
+and stabilized quanta of waste. 
+Thermal incineration, which involves 
+considerable volume reduction of the 
+generated MSW, has various drawbacks, 
+such as the requirement of an external 
+supply of oxygen, a well-equipped burning 
+system, and other appropriate pollution 
+control accessories. Thus it can be 
+inferred that despite all the benefits obtained 
+from the aforesaid processes, the 
+involvement of an exorbitant cost para- 
+
+4
+
+
+
+digm and an imbalance in the generation 
+and stabilization rate of the MSW has 
+necessitated the municipalities to look 
+for other techno-economically viable 
+solutions. Anaerobic digestion (AD) of 
+OFMSW has proved to be the most effective 
+and sound methodology for replacement 
+in this regard (Mata-Alvarez 
+et al. 1990, 2000). 
+AD of OFMSW is a biochemical 
+process where solid organic matter is 
+converted to biogas and highly concentrated 
+sludge through a series of reactions 
+mediated by several micro-organisms. 
+AD of OFMSW involves the stabilization 
+of solid organic matter via 
+three major phases, namely, the semi-
+anaerobic hydrolysis phase, the semi-
+anaerobic acidogenesis phase, and 
+the strictly anaerobic methanogenesis 
+phase (Gerardi 2003) to produce 
+C[H.sub.4] and C[O.sub.2] along with 
+a small fraction of other gases (such as 
+[H.sub.2], N[H.sub.3], [H.sub.2]S, 
+[N.sub.2], etc.). AD mainly focuses on 
+the volumetric reduction of the large initial 
+amount of the solid organic fraction 
+to liquid state (via hydrolysis). Thereafter, 
+different bacteria convert that liquid 
+into volatile fatty acids (VFAs) and 
+alcohols (via acidogenesis) and in the final 
+phase, those acids and alcohols get 
+converted to gases, primarily 
+C[O.sub.2] and C[H.sub.4] (via 
+methanogenesis). 
+However, there is an additional and 
+equally important acetogenesis phase 
+(Ljungdahl and Wood 1969; Deublein 
+and Steinhauser 2008; Khanal 2008) 
+preceding the methanogenesis phase, 
+which also plays a crucial role in the 
+AD. The fermentative bacteria firstly 
+degrade polysaccharides to monosaccharides 
+or glucose via hydrolysis, 
+which is then converted into fatty acids, 
+alcohols, and [H.sub.2] plus C[O.sub.2] 
+via acidogenesis. The acetogens, however, 
+convert the higher fatty acids into 
+acetate and [H.sub.2] plus C[O.sub.2]. 
+Homoacetogens, on the other hand, convert 
+[H.sub.2] plus C[O.sub.2] into acetate. 
+Thus the fermentative bacteria and 
+the syntrophic acetogen produce 
+[H.sub.2], C[O.sub.2], acetate, and other 
+products, while the homoacetogen utilize 
+the [H.sub.2] plus C[O.sub.2] to 
+produce acetate (Nie et al. 2008). In an 
+earlier study by the same team (Nie et al. 
+2007) it was established that the property 
+of homoacetogens to convert 
+[H.sub.2] plus C[O.sub.2] into acetate 
+was a viable strategy to enhance the production 
+of acetate by collecting and converting 
+[H.sub.2] plus C[O.sub.2] into 
+acetate via homoace-togenesis. 
+These homoacetogenic bacteria, which 
+are often known as acetogenic bacteria, 
+are anaerobic microbes, most of whom 
+catalyze the formation of acetate from 
+[H.sub.2] plus C[O.sub.2] in their energy 
+metabolism (Diekert and Wohlfarth 
+1994). These anaerobes can use the 
+Wood-Ljungdahl pathway to: (i) synthesize 
+acetyl-CoA by the reduction of CO 
+or C[O.sub.2] plus [H.sub.2]; (ii) conserve 
+energy; and (iii) fix (assimilate) 
+C[O.sub.2] for the synthesis of cell carbon 
+(Drake et al. 2008). The first isolated 
+acetogen was Clostridium aceticum, 
+which was spore-forming and 
+mesophilic in nature (Wieringa 1939). 
+Later on, the bacterium could not be isolated 
+anymore and further investigations 
+led to the isolation of the second acetogen, 
+which was Clostridium ihermoaceticum 
+(spore-forming, thermophilic) 
+(Fontaine et al. 1942). This 
+bacterium, later re-classified as Moorella 
+thermoacetica (Collins et al. 1994), 
+was the model organism for the elucidation 
+of the biochemical and enzymological 
+features of the acetyl-CoA pathway 
+by Harland G.Wood and Lars G. Ljungdahl, 
+which was dubbed the Wood- 
+Ljungdahl pathway (Ljungdahl and 
+Wood 1969). The acetogens are able to 
+grow chemolithoautotrophically under 
+anaerobic conditions converting CO or 
+[H.sub.2] plus C[O.sub.2] as sole carbon 
+sources primarily into acetate. CO and 
+(or) C[O.sub.2] are the substrates for the 
+two branches, namely, the methyl and 
+the carbonyl branches, of the Wood- 
+Ljungdahl pathway. Acetyl-CoA is the 
+main intermediate of the pathway and it 
+serves as a precursor for the anabolism 
+and catabolism of the respective microbes 
+(Schiel-Bengelsdorf and Durre 
+2012). 
+Unlike other types of conventional 
+waste matter, the OFMSW need to be 
+shredded and homogenized into fine 
+particles before treatment. If the initial 
+amount of moisture present in the waste, 
+which usually depends on the nature of 
+the waste, is not substantial, water 
+should be externally added to the shredded 
+and homogenized material to promote 
+hydrolysis and the subsequent biochemical 
+reactions. The biochemical 
+pathway for degradation of the solid organic 
+wastes via AD is shown in Fig. 
+1. The important factors influencing this 
+pathway are temperature, pressure, particle 
+size, moisture content, total solid 
+(TS) content, etc. 
+The several benefits that can be obtained 
+through AD include reduction of a significant 
+amount of OFMSW that is generated 
+daily in a balancing manner, generation 
+of substantial amounts of biogas 
+and the generation of bio-sludge, which 
+can be an effective soil conditioner. The 
+generated biogas primarily comprises 
+carbon dioxide (30%-40%) and methane 
+(60%-70%) along with a small fraction 
+
+5
+
+
+
+of other gases, of which the produced 
+methane gas can be utilized as a source 
+of heat for electricity generation and as 
+fuel for automobiles. Other advantages 
+of AD include requirement of small 
+space for treatment, prevention of 
+spreading of disease vectors and minimization 
+of ground water contamination, 
+which is a problem especially associated 
+with sanitary landfilling and composting. 
+The AD of OFMSW produces 
+biogas, which has a comparatively lower 
+percentage of carbon dioxide 
+(30%-40%) and higher percentage of 
+methane (60%-70%). The methane produced 
+can be utilized in various ways 
+and thus significantly contributes to the 
+global scheme of renewable energy; 
+whereas the carbon dioxide produced 
+does not have such wide applications. 
+Moreover, carbon dioxide is the principal 
+contributor to the greenhouse effect. 
+As a result, AD of OFMSW, unlike 
+classical MSW management practices, 
+does not contribute to the greenhouse effect. 
+In this review the authors primarily 
+focus on the: (i) importance and potential 
+of AD of OFMSW, (ii) various 
+operational aspects of AD of OFMSW, 
+(iii) various case studies pertaining to 
+pilot and field-scale application and also 
+full-scale implementation in large towns 
+and cities, (iii) kinetic models that have 
+been developed hitherto, (v) the different 
+approaches for process design, and 
+(vi) different modalities for utilization 
+of the produced energy at the community 
+and industrial level.
+
+
+
+
+ 
+2. Origin of AD of OFMSW
+
+Interestingly, OFMSW was first observed 
+to undergo AD in sanitary landfills 
+and this was detected essentially at 
+a very high solids concentration (Farquhar 
+and Rovers 1973; Rees 1980). 
+This result prompted many scientists 
+and researchers to come up with the idea 
+of an effective methodology, which 
+would not only serve as a potent substitute 
+for landfilling operations, but would 
+also be economical with regard to capital 
+investment and generated sludge. As 
+such, AD of OFMSW came into the 
+thrust area of research and gradually it 
+was developed. The development was 
+brought about by various experimental 
+studies on AD of OFMSW. These were 
+conducted over the last three decades 
+and led to the invention of a wide range 
+of modifications on AD of OFMSW. 
+After the discovery of AD of OFMSW 
+in sanitary landfills, in the early 1970s, 
+very little development was observed in 
+the next four to five years. However, 
+since the early 1980s, the AD of OFMSW 
+received greater attention with the 
+introduction of both pilot and commercial 
+AD plant designs. In the past 
+decade, AD of OFMSW has found a 
+wide application across Europe with the 
+development of many full-scale plants 
+(Mata-Alvarez et al. 2000). The present 
+statistics indicate that 1.3 billion metric 
+tons of MSW are generated annually in 
+the world, which is expected to rise to 
+about 2.2 billion tons by 2025 (Hoornweg 
+and Bhada-Tata 2012). Earlier, it 
+was reported by Bolzonella et al. (2003) 
+that nearly 1 million tons of organic 
+wastes (wet weight) were being digested 
+throughout the world. AD of the solid 
+organic wastes not only ensures stabilization 
+of these enormous quantities of 
+waste, but also converts them into biogas 
+(Verstraete et al. 2000). Moreover, 
+AD when coupled with post-composting 
+(Kubier and Rumphorst 1999; Verstraete 
+et al. 2000) also minimizes the 
+emission of carbon dioxide into the atmosphere 
+thereby playing a significant 
+role in the abatement of global warming. 
+
+
+
+
+
+3. Innovative developments on AD of OFMSW
+ 
+Chynoweth et al. (1992) and Chugh et 
+al. (1995) proposed a leachate management 
+strategy that ensured: (i) the microorganisms 
+that were involved in the 
+AD were able to get sufficient moisture 
+and nutrients required for rapid conversion 
+of the OFMSW; and (ii) the removal 
+of inhibitory fermentative products 
+during startup. The reason behind 
+developing this leachate management 
+strategy was that there was a lack of stability 
+in reactors that were loaded with 
+high solids-content during long start-up 
+periods. The multistage leachate recycle 
+configuration proposed by them overcame 
+this problem. In a separate study, 
+Nopharatana et al. (1998) designed an 
+arrangement consisting of two-stage digesters 
+where recirculation of leachate 
+into the fresh organic matter was done. 
+It was observed that formate degradation 
+activity followed the methane production 
+rate with both reaching a maximum 
+value simultaneously at a certain 
+time. Hence, it was observed that the recirculation 
+of leachate offered better optimization 
+of the AD of OFMSW, with 
+regards to the energy yield and process 
+economics (Di Maria et al. 2012). 
+Since the late 20th century, AD of OFMSW 
+has improved by leaps and bounds 
+with commercial and pilot AD plants 
+coming into the fore. As such, Rodriguez-
+Iglesias et al. (1998) studied the 
+pilot scale AD of OFMSW and achieved 
+a maximum methane yield of 66% of the 
+total biogas produced. Earlier, Kayhanian 
+and Rich (1995) conducted a pilot 
+scale study on high solids thermophilic 
+AD of OFMSW with an emphasis on 
+nutrient requirements and concluded 
+that addition of micro- and macronutrients 
+to OFMSW prior to digestion re- 
+
+6
+
+
+
+sulted in stable operation and elevated 
+gas production. The robustness of the 
+methanogens depends largely on a variety 
+of mineral nutrients because of their 
+diverse population dynamics. Various 
+activities of the methanogens, such as 
+protein synthesis, nucleic acid synthesis, 
+increasing cell wall permeability, and 
+enhanced metabolism, depend on the 
+presence of various macro- and micronutrients, 
+such as carbon, nitrogen, 
+phosphorus, potassium, sulfur, and iron. 
+The heterogeneous nature of the 
+biodegradable organic fraction of municipal 
+solid waste (BOFMSW) makes 
+it imperative for nutrient supplementation 
+during the addition of the synthetic 
+feedstock so that there is an increased 
+stabilization of the digester performance 
+treating BOFMSW in a high solids AD. 
+Dry digestion or high solids AD systems 
+are more robust and flexible as opposed 
+to wet digestion systems because of 
+their higher biomass concentration and 
+controlled feeding. It was observed that, 
+compared to food waste (FW) and 
+shredded organic fraction of municipal 
+solid waste (SH-OFMSW), OFMSW 
+had the highest methane yield per gram 
+of VS degraded, which was also a maximum 
+along with dissolved organic carbon 
+(DOC) removal. Forster-Carneiro et 
+al. (2008a) stressed the importance of 
+the dry digestion of FW and conducted 
+AD for the stabilization of three types of 
+organic substrates--FW, SH-OFMSW, 
+and OFMSW. Hence, it was once again 
+inferred that the nature of the organic 
+substrate had an important role to play 
+on the biodegradation process and 
+methane yield. A kinetic model was developed 
+by Bollon et al. (2011), which 
+specifically assessed the degradation of 
+the OFMSW in the dry AD. 
+The phenomena of inhibition arising out 
+of high solids anaerobic digestion 
+(HSAD) of OFMSW were addressed by 
+Schievano et al. (2010) when the same 
+process was applied to the highly putrescent 
+OFMSW. Later on, Yu et al. (2012) 
+established a comprehensive model to 
+configure a new two-stage HSAD system 
+designed for highly degradatile 
+OFMSW. Earlier in another study, 
+Fdez.-Guelfo et al. (2010) focused on 
+the start-up and stabilization of an AD 
+system at thermophilic temperature 
+range (55[degrees]C) and dry conditions 
+(30% TS) and semi-continuously fed for 
+the treatment of OFMSW. The focusing 
+on the start-up and stabilization phase 
+can be linked with the adaption of the 
+inoculum employed, which in the aforesaid 
+study was a mixture of leachate and 
+sewage sludge in 1:1 v/v. 
+Temperature, in both the mesophilic 
+(30-38 [degrees]C) and the thermophilic 
+(49-57 [degrees]C) range, plays a crucial 
+role in the AD of OFMSW with regards 
+to high methane production. Earlier 
+AD of OFMSW was done at 
+mesophilic temperatures (Cecchi et al. 
+1993), but after successful demonstrations 
+at thermophilic temperatures, both 
+in laboratory-scale (Wellinger et al. 
+1992) and full-scale levels (Cozzolino 
+et al. 1992), the thermophilic anaerobic 
+process gained significant interest because 
+of its higher loading rate and 
+greater volume of gas production (Cecchi 
+et al. 1991). The sequential development 
+of AD of OFMSW, considering 
+the operating temperature, is shown in 
+Fig. 2. The selection of dry conditions at 
+thermophilic temperature range results 
+in the process being much faster, with 
+a much cleaner product obtained, than 
+when mesophilic or wet conditions are 
+used. Besides, the hydrolysis stage on 
+the complex organic or biological material 
+is better and the C[H.sub.4] generation 
+is higher in the case of the thermophilic 
+temperature regime than it is 
+under mesophilic and wet conditions. 
+The effect of change in temperature 
+regime from mesophilic to thermophilic 
+on the start-up phase of AD of OFMSW 
+has also been well demonstrated. 
+In a study by Sasaki et al. (2011), the 
+methanogenic pathway and the microbial 
+community in a thermophilic AD 
+of organic solid waste in a continuousflow 
+stirred-tank reactor using artificial 
+garbage slurry as a feedstock was investigated. 
+The study implied that the microbial 
+community in the thermophilic 
+degrading process consisted exclusively 
+of unidentified bacteria, which efficiently 
+removed acetate through a non-acetoclastic 
+oxidative pathway thereby increasing 
+the methane yield. In another 
+study, a comparison among the most 
+common types of anaerobic digesters, 
+such as that of the single-stage, the twostage, 
+and the batch systems, was made 
+by Vandevivere et al. (2002). The starting 
+stages of AD are significantly influenced 
+by two most important factors-- 
+inocula (Castillo et al. 2006) and TS 
+content (Li et al. 2009); obviously pressure 
+also plays a crucial role in the generation 
+of biogas and stabilization. In 
+high-altitude areas, where the atmospheric 
+pressure is relatively low, the AD 
+process would have to proceed under 
+relatively low partial pressure of 
+C[O.sub.2] resulting in a higher pH environment. 
+This would enable the AD 
+system to resist acidification and 
+achieve a higher organic loading rate 
+(OLR) (Zhang et al. 2005). Jiang et al. 
+(2010) examined the influence of atmospheric 
+pressure on the performance of 
+AD of OFMSW, using a self-designed 
+AD experimental system that simulated 
+different pressures. 
+
+7
+
+
+
+Hitherto, the enzyme activities in AD of 
+real organic wastes have been paid very 
+little attention because the enzymes are 
+too scarce to determine selectively and 
+the enzymatic reactions are too specific 
+and diverse to cover various enzymes 
+involved in overall pathways. However, 
+Kim et al. (2012) enhanced the understanding 
+of the enzyme activities of 
+anaerobic microorganisms in an anaerobic 
+digester treating real OFMSW by 
+quantitatively determining the representative 
+enzyme activities of extracellular 
+cell-free liquids. 
+Mixing has a tremendous impact on the 
+start-up of mesophilic co-digestion systems 
+and thermophilic digesters fed with 
+acetate. This was brought to light by 
+overcoming the operational difficulties 
+and instability problems encountered 
+during thermophilic AD of OFMSW by 
+Angelidaki et al. (2006). Besides, 
+Ghanimeh et al. (2012) assessed the effect 
+of mixing on the performance of 
+thermophilic AD treating source-sorted 
+organic fraction of municipal solid 
+waste (SS-OFMSW) during the start-up 
+phase, using cattle manure as a seed 
+source. Recently, small-scale decentralized 
+anaerobic systems have become attractive 
+and easy to manipulate with the 
+feedstock characteristics. Zeshan et al. 
+(2012) studied the effect of the carbon to 
+nitrogen (C/N) ratio and associated ammonia-
+nitrogen accumulation in a pilotscale 
+dry thermophilic AD system designed 
+for decentralized applications. It 
+was concluded that the problem associated 
+with ammonia-nitrogen accumulation 
+can be easily overcome by adjusting 
+the feedstock C/N ratio in case of a 
+decentralized small-scale AD system as 
+opposed to a large-scale centralized system. 
+It is a well-known fact that incineration 
+of MSW has the potential to produce 
+steam and electricity besides producing 
+residues, such as fly ash (FA) and bottom 
+ash (BA). Lo et al. (2012) investigated 
+the addition of various MSW incineration 
+ashes to the AD of OFMSW. 
+It was observed from the study that, an 
+solids retention time (SRT) of 20 days 
+resulted in an increased biogas production 
+rate compared to an SRT of 5 and 
+10 days for a given organic load of both 
+FA and BA. However, it was also seen 
+that at an SRT of 20 days the reactor 
+dosed with BA showed better biogas 
+production rate compared to the reactor 
+dosed with FA. The significance of a 
+higher SRT was emphasized along with 
+the increased efficiency of BA compared 
+to FA. The heterogeneous nature 
+of OFMSW necessitates the requirement 
+of specific studies for optimizing 
+the dry mesophilic AD of various OFMSW. 
+The heterogeneous nature of OFMSW 
+warrants optimization of the AD 
+process so that the different types of 
+OFMSW may be treated in a specific 
+manner with regards to certain critical 
+parameters, such as SRT and OLR, 
+which are two of the most important operational 
+parameters in AD. Rodriguez 
+et al. (2012) determined the optimum 
+SRT and the relevant OLR for the 
+mesophilic AD of OFMSW. It was observed 
+that, at an SRT of 20 days the 
+methane productivity rate and the organic 
+matter removal rate were higher than 
+those observed at SRTs of 15 and 30 
+days. 
+So far as energy is concerned, hydrogen 
+can also be considered as one of the 
+clean alternative fuels produced from 
+AD of OFMSW, along with methane. 
+Hydrogen is one of the most promising 
+energy sources for the future because 
+it is more environmental friendly than 
+methane and has the ability to be used 
+in fuel cells in the transportation infrastructure. 
+As such, when blended with 
+compressed natural gas as a fuel for vehicles 
+hydrogen has been found to reduce 
+[NO.sub.x] emission by as much 
+as 50% (DiStefano and Palomar 2010). 
+Also this fuel may be assigned the role 
+of replacing the fossil fuels in the near 
+future thereby highlighting the need for 
+"hydrogen economy" (Das and 
+Veziroglu 2001). Romero Aguilar et al. 
+(2013) analyzed the effect of hydraulic 
+retention time (HRT) on the hydrogen 
+production from the OFMSW coming 
+from a full-scale mechanical-biologicaltreatment 
+(MBT) plant using an anaerobic 
+continuous stirred tank reactor 
+(CSTR) operated at thermophilic-dry 
+conditions (55 [degrees]C and 20% in 
+TS concentration, respectively). It was 
+observed that the maximum hydrogen 
+and specific hydrogen were produced at 
+an HRT of 1.9 days with a feeding 
+regime of twice a day. In another study, 
+conducted by Kim and Kim (2013), a 
+three-stage fermentation system was developed 
+that achieved stabilization of 
+FW to [H.sub.2] and C[H.sub.4]. The 
+system especially emphasized achieving 
+higher [H.sub.2] yield than the mere 
+20% recovery of [H.sub.2] in most AD 
+reactors stabilizing OFMSW. Fig. 3 represents 
+a typical flow sheet of AD of 
+OFMSW up to biogas generation and 
+sludge recovery.
+
+
+
+
+ 
+4. Role of various factors influencing AD of OFMSW
+
+The performance of AD in stabilizing 
+OFMSW depends on a wide variety of 
+factors, of which some important ones 
+are listed in the following subsections.
+ 
+ 
+4.1. Role of pH
+
+pH has always been a crucial parameter 
+
+8
+
+
+
+in the generation of the biogas by AD of 
+OFMSW. Results have shown that a pH 
+range of 6.8-7.3 is the most favorable 
+for methane-producing bacteria. This 
+can be attributed to the fact that on either 
+side of the mentioned pH range 
+methane production ceases, as acidforming 
+bacteria are dominating at lower 
+pH (4-5), whereas at a higher pH 
+(>7.3) the production of the toxic form 
+of ammonia (N[H.sub.3]) is favored (El- 
+Fadel et al. 2013). Addition of inoculum 
+and dry digestion at higher seed or substrate 
+solids ratios, which is essential at 
+times, result in these varying unfavorable 
+ranges of pH. During instances 
+when the pH is not favoring the 
+methane-producing bacteria, several pH 
+control chemicals (buffers) can be added 
+to the AD system to restore pH neutrality. 
+Brummeler and Koster (1989) studied 
+the effect of several pH control 
+chemicals on the dry batch digestion of 
+the OFMSW and detected higher stabilization 
+in terms of methane generation 
+compared to that in sanitary landfills. It 
+was also concluded that a start-up phase 
+of approximately 6 months yielded 80 L 
+C[H.sub.4]/kg of organic fraction. Mata-
+Alvarez et al. (1990) made a variety 
+of comparisons in digester performances 
+treating OFMSW pertaining to 
+the biodegradation achieved, process kinetics, 
+and biodegradability of the substrate. 
+All these factors are related directly 
+to the nature of the feed provided, 
+which in turn depends largely on the 
+way the waste is sorted. 
+As such, the biodegradation achieved in 
+the case of the SS-OFMSW is greater 
+than the mechanically sorted organic 
+fraction of municipal solid waste (MSOFMSW). 
+MS-OFMSW contains a 
+higher fraction of non-biodegradable 
+solids, such as plastic pieces, wood, paper, 
+etc., resulting in a lower percentage 
+of soluble VS with respect to total 
+volatile solids (TVS), when compared 
+to SS-OFMSW. This in turn causes low 
+biogas production rate. Consequently, it 
+was observed by Mata-Alvarez et al. 
+(1990) that the biodegradation rate, estimated 
+through the first-order kinetic 
+constant k, was almost 10 times greater 
+when the feed was SS-OFMSW. Later, 
+in a separate experimental study where 
+the AD of food market wastes (Mata- 
+Alvarez et al. 1992) was carried out, a 
+methane yield of 0.478 [m.sup.3]/kg of 
+added VS was reported. In addition, the 
+kinetic analysis on the designed reactor 
+using a first-order model resulted in a 
+kinetic constant of 3.1 [day.sup.-1] and 
+an ultimate methane yield of 0.489 
+C[H.sub.4]/kg VS. Not only that, the 
+leachate produced during the process 
+was suitably utilized too.
+ 
+ 
+4.2. Role of co-digestion 
+
+One of the most classical ways of increasing 
+the efficiency of an anaerobic 
+digester treating OFMSW is by co-digestion. 
+Co-digestion of OFMSW and 
+bio-solids provides an attractive alternative 
+for the management of two separate 
+waste streams that are produced in 
+every community (Cecchi et al. 1988). 
+As such, the concept of co-digestion of 
+OFMSW with manure and other industrial 
+organic wastes was successfully 
+materialized by Callaghan et al. (1999). 
+However, in a separate bench-scale 
+study, primary sewage sludge was codigested 
+with OFMSW instead of manure 
+for substantial biogas production 
+(Kiely et al. 1997). Similar co-digestion 
+of semisolid organic waste with sewage 
+sludge was also investigated by Sharma 
+et al. (2000) on a newly designed reactor, 
+which showed greater biogas production 
+and stabilization. On two separate 
+occasions, McMahon et al. (2001) 
+and Stroot et al. (2001) studied the digester 
+performance and microbial population 
+dynamics while conducting 
+anaerobic co-digestion of MSW and 
+bio-solids under various mixing conditions. 
+It was inferred from both the experiments 
+that continuous mixing may 
+cause an inhibitory effect on the archael 
+population dynamics during higher 
+OLRs. That was primarily attributed to 
+the fact that continuous mixing at a high 
+OLR inhibited syntrophic oxidation of 
+VFAs thereby resulting in an abrupt reduction 
+of the methanogenic abundance. 
+Consequently an increased stability in 
+the digester performance was noticed by 
+reducing the level of mixing. 
+A study conducted by Schmit and Ellis 
+(2001) showed the comparison between 
+temperature-phased and two-phased 
+anaerobic co-digestion of primary 
+sludge and OFMSW, as substrate, in 
+terms of all the key phases (hydrolysis, 
+acidogenesis, and methanogenesis). On 
+a separate occasion, Hartmann and 
+Ahring (2005) reported a study on co-digestion 
+of OFMSW with animal manure, 
+which showed stable performance 
+with a significant amount of methane 
+and very low VFA levels. It is obvious 
+that the economic feasibility of an AD 
+plant treating OFMSW increases with 
+higher biogas yield. In the case of an 
+AD plant solely depending on OFMSW, 
+as its influent substrate, an increase in 
+biogas yield can be achieved by co-digesting 
+OFMSW with animal manure, 
+because of the high biogas potential of 
+the animal manure. In a separate experimental 
+study, Fernandez et al. (2005) 
+evaluated the potential of mesophilic 
+AD for the treatment of fats of different 
+origin through co-digestion with the 
+OFMSW. Fats are generally characterized 
+by the presence of lipids, which 
+are considered to be important biochem- 
+
+9
+
+
+
+ical components for high theoretical 
+methane production because of their reduced 
+nature (Pereira et al. 2003). Thus 
+it can be seen that the benefits of co-digestion 
+of OFMSW with another residue 
+are well described in several studies 
+(Sosnowski et al. 2003; Dohanyos et al. 
+2004; Bouallagui et al. 2004). However, 
+the application of co-digestion with industrial 
+sludge is very much limited. 
+Capela et al. (2008) evaluated the technical 
+feasibility of anaerobic co-digestion 
+of three organic solid wastes under 
+mesophilic conditions: OFMSW, industrial 
+sludge, and cattle manure. 
+Co-digestion of wasted sewage sludge 
+(WSS) (WSS can be defined as the 
+sludge wasted during secondary treatment 
+either from the main aeration unit 
+or the secondary clarifier of an activated 
+sludge process system) with OFMSW 
+has become a popular mode of improving 
+the biogas yield and stability of 
+anaerobic digesters (Hartmann and 
+Ahring 2006; De Baere 2006; Bouallagui 
+et al. 2009). Similarly, slaughterhouse 
+wastes can also be used as an efficient 
+co-substrate in the AD of OFMSW. 
+Anaerobic co-digestion of the 
+slaughterhouse waste not only provides 
+an option for the reduction of such 
+harmful wastes, but also provides an alternative 
+pathway of extracting the potential 
+benefits in terms of biogas generation. 
+Hence, it can be said that AD 
+of OFMSW using certain co-substrates 
+not only serves to enhance the rate of 
+methane production and operational stability, 
+but also contributes to a low energy 
+requirement for operation, a low initial 
+investment cost, and a low sludge 
+production (Nguyena et al. 2007). In addition, 
+the final digested material from 
+co-digestion is more stabilized and 
+hence serves better as a soil conditioner. 
+Alvarez and Liden (2008) experimentally 
+evaluated the potential of semi-continuous 
+mesophilic AD for the treatment 
+of solid slaughterhouse waste, fruit and 
+vegetable wastes (FVWs), and manure 
+in a co-digestion process. It was observed 
+that the digestion of the mixed 
+substrates yielded better VS reduction 
+and steady-state biogas production than 
+with the digestion of the pure substrates, 
+with the exception of solid cattle-swine 
+slaughterhouse waste with FVW mixture. 
+This finding emphasizes the importance 
+of combined treatment for certain 
+wastes that cannot be successfully treated 
+individually. In another study, Cuetos 
+et al. (2008) carried out the AD of 
+both slaughterhouse waste and mixtures 
+of solid slaughterhouse waste with 
+OFMSW in a mesophilic semi-continuously 
+fed digester. It was observed that 
+in a medium with high fat and ammonia 
+content (such as slaughterhouse waste) 
+the sludge needed to be acclimated 
+properly for a certain period of time (initial 
+HRT 50 days) for the AD to proceed 
+steadily at a subsequently shorter HRT 
+and progressively increasing OLR. This 
+resulted in a successful co-digestion 
+with a better yield and VS removal than 
+for co-digestion carried out at an initial 
+HRT of 25 days, which led to digester 
+failure. A comparative study was carried 
+out by Zhang et al. (2008) demonstrating 
+the performance difference between 
+sole digestion of bio-solids and co-digestion 
+of bio-solids and OFMSW. It 
+was observed that co-digestion of biosolids 
+with OFMSW resulted in increased 
+biogas yield and efficient removal 
+of VS and TS, along with significant 
+reduction in the volume of biosolids 
+and OFMSW. 
+Nowadays, it can be said that AD is the 
+most acceptable technology for the 
+treatment of OFMSW, because it is not 
+only self-sustaining, but there is a provision 
+of energy recovery in the form 
+of methane gas (Lv et al. 2010). It also 
+has a tremendous potential to stabilize 
+a huge quantum of the generated MSW 
+(Ge et al. 2010). Co-digestion provides 
+a scope for easy stabilization of complex 
+and diverse substrates with OFMSW. 
+Moreover, the nutritional requirement of 
+the inoculum employed is met by means 
+of co-digesting OFMSW with various 
+other substrates. Ponsa et al. (2011) 
+studied the feasibility of co-digesting 
+OFMSW with different kinds of pure 
+organic co-substrates, such as vegetable 
+oil, animal fat, cellulose, and peptone 
+(protein). It improved the functioning of 
+the anaerobic digesters by increasing the 
+biogas yield. Waste-activated sludge has 
+been reported to offer better biogas yield 
+and increased process stability when codigested 
+with OFMSW. It is also imperative 
+to consider the influence of OLRs 
+on the system stability when OFMSW is 
+co-digested with waste-activated sludge. 
+Consequently, Liu et al. (2012b) investigated 
+the effects of OLR on the performance 
+and stability of anaerobic co-digestion 
+of municipal biomass waste and 
+waste-activated sludge on a pilot-scale 
+reactor.
+ 
+ 
+4.3. Role of sorting techniques and pretreatments 
+
+The substrate concentration is another 
+important consideration, as Fernandez et 
+al. (2008) analyzed the effect of substrate 
+concentration (based on the TS 
+contents in the reactor) on the 
+mesophilic AD during the start-up 
+phase. The higher the initial organic 
+substrate concentration (DOC or TS 
+concentration) the longer the start-up 
+phase, because of prolonged hydrolysis 
+and acidogenesis phases, and the lower 
+the methane yield. Forster-Carneiro et 
+
+10
+
+
+
+al. (2008b) analyzed the performance of 
+two laboratory-scale reactors treating 
+two types of SS-OFMSW obtained from 
+a university restaurant and MS-OFMSW 
+obtained from a municipal treatment 
+plant located in Cadiz, Spain. SSOFMSW 
+was characterized by high 
+start-up phase because it followed the 
+classical waste decomposition pattern 
+(i.e., a first start-up phase followed by 
+the acclimation phase, and finally the 
+stabilization phase). On the contrary, the 
+MS-OFMSW exhibited a methanogenic 
+pattern throughout the entire experimental 
+period thereby showing no visible 
+difference between the acidogenic, acetogenic, 
+and methanogenic phases. In 
+the case of the MS-OFMSW a lower C/ 
+N ratio, which is indispensable for biomass 
+growth and diversification, was 
+marked. This resulted in a stable pH for 
+optimal biological activity until the stabilization 
+period. Also, the biodegradability 
+of the MS-OFMSW was higher 
+because of lower DOC.With the gradual 
+advancement in the various design features 
+of the AD, it is essential to set a 
+benchmark against which the different 
+designs can be compared for their benefits, 
+constraints, kinetics, and pollution 
+potential of the OFMSW. 
+It is appropriate to say that AD of OFMSW 
+has been considerably boosted by 
+various worldwide developments in the 
+last 15 years. Dong et al. (2010) developed 
+one innovative methodology, 
+where the feasibility of methane generation 
+from semi-dry mesophilic AD 
+of water-sorted organic fraction of municipal 
+solid waste (WS-OFMSW) was 
+worked out. WS-OFMSW is obtained 
+by separating completely mixed MSW 
+into different classes of fractions, such 
+as the biodegradable fraction, metals, 
+heavy materials, plastics, and the combustible 
+fraction by the buoyant and 
+stink force of water with various machines 
+assisting. The biodegradable 
+fraction obtained is the WS-OFMSW 
+comprising kitchen waste, FVW, garden 
+waste, paper waste, etc. The biodegradability 
+of the WS-OFMSW is evidently 
+greater than the MS-OFMSW and hence 
+semi-dry AD of WS-OFMSW under 
+mesophilic conditions resulted in a satisfactory 
+biogas yield with as high as 66% 
+methane content. Pognani et al. (2012) 
+assessed the performance of a combined 
+anaerobic-aerobic full-scale plant designed 
+for the treatment of the SS-OFMSW 
+and it was observed from the study 
+that during the pretreatment step about 
+32% of the initial waste matter was rejected 
+without any treatment, decreasing 
+the overall biodegradability of the organic 
+matter. However, the final compost 
+was found to contain 50% of the 
+initial nitrogen and 86.4% of the initial 
+phosphorus, resulting in a high level of 
+stabilization. Novarino and Zanetti 
+(2012) studied the effect of "pressure 
+extrusion", a mechanical pre-treatment 
+process that haas seen recent application 
+in treatment plants on AD of OFMSW 
+across European countries. This was 
+done to separate the undesired fractions 
+and to reduce the final OFMSW content 
+into a homogenous jam. The addition of 
+this extruded OFMSW was done with 
+activated sludge, which acted as a diluting 
+agent. The result showed that with 
+the stepwise increase in the TS content 
+rate, the average specific bio-gas production 
+(SBP) increased significantly 
+per kilogram of VS degraded and the 
+percentage of methane, by volume, also 
+increased considerably. 
+Of late, the application of AD for the 
+treatment of the industrial contribution 
+of OFMSW has been of special interest. 
+Biotransformation has been regarded as 
+the main barrier in the treatment of those 
+wastes. These industrial contributions of 
+MSW along with certain other procured 
+MSW sometimes have complex organic 
+fractions, which cannot be easily broken 
+down via microbial activity. This is especially 
+the problem if the digester is 
+dedicated to the anaerobic stabilization 
+of such complex OFMSW. In such cases 
+various pretreatments, such as biological, 
+thermal, chemical, and combinations 
+of all three may be adopted prior 
+to the main AD process (Fdez.-Guelfo 
+et al. 2011a, 2011b). The biodegradability 
+of the complex substrates can be improved 
+by the various aforesaid pretreatments. 
+For instance, in the case of cellulose 
+fermentation, the hydrolytic phase, 
+which is always the rate-limiting step, 
+can be enhanced by addition of certain 
+extracellular enzymes called hydrolases, 
+which catalyze the reactions. 
+The pretreatment causes a deep modification 
+by weakening the molecular 
+bonds in the structure of the complex 
+substrates thereby breaking the polymers 
+and increasing the superficial area 
+of particulate wastes. Biological pretreatment 
+ensures breaking of complex 
+molecules into simple monomers so that 
+the solubilization of the organic material 
+is increased and subsequently the efficiency 
+of the AD process is bettered, resulting 
+in enhanced biogas and methane 
+production (Fdez.-Guelfo et al. 2011c). 
+Other conventional types of biological 
+pretreatment that can be applied to 
+OFMSW prior to the main AD include 
+aerobic pretreatments, such as composting 
+or micro-aeration. These methods 
+obtain better hydrolysis of complex substrates 
+because of the higher production 
+of hydrolytic enzymes. Zhou et al. 
+(2013) studied the effect of thermal hydrolysis, 
+also a pretreatment, on the 
+physical and the chemical properties of 
+OFMSW while co-digesting WSS, 
+
+11
+
+
+
+restaurant kitchen waste, and FVW in 
+a pilot plant. The results indicated that 
+thermal hydrolysis increased digestibility 
+by as much as 115% by dissolving 
+38.3% of the volatile suspended solids 
+(VSS). It was also concluded from the 
+study that the digestion rate doubled as 
+a result of performing the thermal pretreatment, 
+with less accumulation of 
+VFAs, compared to an AD process without 
+the thermal pretreatment. 
+From the perspective of an increased 
+rate of degradation of the OFMSW, enhanced 
+gas production, cost efficiency, 
+energy balance, and process sustainability 
+(Ariunbaatar et al. 2014) various pretreatment 
+techniques, such as that of 
+mechanical pre-treatment, thermal pretreatment, 
+chemical pre-treatment, and 
+biological pre-treatment, play a pivotal 
+role. For instance, different mechanical 
+pretreatment techniques, such as rotary 
+drum, screw press, disc screen shredder, 
+FW disposer, piston press, and eletroporation, 
+have different impacts on chemical 
+oxygen demand (COD) solubilization, 
+biogas production, and high 
+methane yield per unit weight of VS degraded. 
+However, the selection of a particular 
+technology depends largely on 
+the nature of the OFMSW to be treated. 
+This is because each technology has an 
+unique impact on the various factors, 
+such as particle size, VFA accumulation, 
+and quantity as well as quality of the 
+sorted OFMSW, that enhance the COD 
+solubilization rate, biogas production 
+rate, and the percentage of methane 
+yield. Earlier, it was established that the 
+organic fraction obtained from the waste 
+separation was particularly more useful 
+for AD than that obtained from mechanical 
+separation because of the presence 
+of higher TVS content (Bolzonella et 
+al. 2001). However, Fantozzi and Buratti 
+(2011) evaluated the performance of 
+AD on different portions of OFMSW by 
+squeezing in the OFMSW with or without 
+inoculum via mechanical treatment. 
+Similarly, in the case of thermal pretreatment, 
+such as thermal hydrolysis, 
+the disintegration of cell membranes of 
+the complex substrates results in the solubilization 
+of the organic compounds 
+thereby enhancing the COD solubilization 
+rate. Not only that, thermal pretreatment 
+of OFMSW results in pathogen removal, 
+improvement in dewatering performance, 
+and viscosity reduction of the 
+digestate. Studies have shown that thermal 
+pretreatments of FW and FVW at 
+temperatures between 70 and 90 [degrees]
+C for 60 min led to a significant 
+increase in the biogas production rate 
+with high methane yield. However, to 
+economize the thermal pretreatment 
+technology, the duration of the pretreatment 
+has been shortened considerably to 
+30-40 min by elevating the temperature 
+to 120 from 90 [degrees]C, which also 
+resulted in a similar outcome, in terms 
+of biogas production rate and methane 
+yield. The application of chemical pretreatment 
+on OFMSW has been mostly 
+by alkaline pretreatment. Studies have 
+shown that alkaline pretreatment of 
+OFMSW resulted in higher methane 
+production. Apart from alkaline pretreatment, 
+ozonation pretreatment (Cesaro 
+and Belgiorno, 2013) of SS-OFMSW 
+has also resulted in a 37% higher 
+cumulative methane production.
+
+
+
+
+ 
+5. Potential of AD of OFMSW 
+
+AD of OFMSW primarily involves a series 
+of metabolic reactions (hydrolysis, 
+acidogenesis, acetogenesis, and 
+methanogenesis) controlled by diverse 
+microbial populations to convert or degrade 
+the organic waste into biogas and 
+other energy-rich organic compounds as 
+end products (Charles et al. 2009). In 
+other words, the process of anaerobic 
+decomposition has the potential to provide 
+useful products, such as methane 
+and bio-hydrogen, and the sludge generated 
+is also used as an organic conditioner 
+for soil. Besides these, the process 
+of AD does not require external supply 
+of oxygen (Guermoud et al. 2009; 
+Chanakya et al. 2007) and there is no dependency 
+on fossil fuel for energy production 
+(Jingura and Matengaifa 2009). 
+AD thus represents an opportunity to decrease 
+environmental pollution as well 
+as producing biogas and organic fertilizer 
+or carrier material for bio-fertilizers 
+(Khalid et al. 2011). The two major benefits 
+of this process that reduce environmental 
+pollution are (i) prevention 
+of methane exiting into the atmosphere 
+because AD occurs under closed conditions; 
+and (ii) carbon-neutral carbon 
+dioxide is released into the atmosphere 
+during the burning of methane (Ward 
+et al. 2008). Compared to other MSW 
+management techniques, such as sanitary 
+landfilling, thermal incineration, 
+pyrolysis or gasification, and aerobic 
+composting, the numerous potentials of 
+AD in treating OFMSW include rapid 
+digestion of solid organic waste constituents, 
+huge volume reduction of organic 
+matter and energy recovery with 
+high-grade soil conditioner. In addition, 
+the enclosed system also prevents the 
+spread of diseases vectors (rodent, fly 
+menace) and bad odor. 
+It is a well-known fact that AD is preferred 
+over aerobic conversion because 
+of the lower volume of final solid sludge 
+produced. In the last few decades, the 
+per-capita solid waste generation rate 
+has been increasing mostly in an uncontrolled 
+manner, and therefore AD has 
+gained much importance. The rapid rate 
+of digestion of these huge quanta of gen- 
+
+12
+
+
+
+erated waste is making the process of 
+AD not only economically viable but also 
+environmentally indispensable. Economic 
+viability is owed to the fact that 
+in the treatment of the solid organic 
+waste, virtually no power is required except 
+for maintaining the operational 
+temperature, which again can be sustained 
+by the usage of the generated biogas. 
+Thus in a way the AD of OFMSW 
+is a self-sustaining process that may be 
+needful to prevent the gradual exhaustion 
+of fossil fuels. The ability of AD 
+to stabilize enormous quanta of solid organic 
+waste within a short period facilitates 
+substantial reduction of waste volume 
+on a daily basis thereby ensuring 
+that comparatively smaller areas are required 
+forthe final disposal of solid organic 
+waste before these are subjected to 
+AD. This allows the possibility to eliminate 
+unhygienic conditions in cities, especially 
+during periods when there is a 
+sudden increase in the generation of the 
+total organic solid waste load. 
+Nowadays, the availability of space for 
+sustaining any environmental friendly 
+technology is a major issue and the unprecedented 
+urbanization coupled with 
+the mushroom-like development of suburbs 
+hinders this target. This particular 
+challenge has also led municipalities to 
+look for some pragmatic approaches to 
+solid waste management, such as that of 
+AD, where the land required for constructing 
+a full-scale plant is smaller 
+than for other MSW management techniques. 
+Anaerobic treatment units require 
+modular construction and the area 
+required basically depends on the type 
+of digester unit to be used. AD of OFMSW 
+also has the potential to treat other 
+types of wastes in conjunction with the 
+solid organic fraction. It follows that 
+other kinds of waste like sewage sludge, 
+poultry residue, slaughterhouse waste, 
+etc., can be mixed with the OFMSW 
+to increase the rate of digestion. This 
+process, better known as co-digestion or 
+co-fermentation, not only ensures a 
+faster rate of degradation of the primary 
+substrate (OFMSW) but also of the cosubstrate. 
+Common benefits of co-digestion 
+include easier handling of mixed 
+waste (Li et al. 2009), adjustment of the 
+C/N ratio (Xie et al. 2011), easy dilution 
+of potentially toxic compounds, improved 
+nutritional balance, increased 
+loads of decomposable organic matter 
+(Gannoun et al. 2007; Bouallagui et al. 
+2009), and increased gas yield (Macias- 
+Corral et al. 2008). The toxic elements 
+present in the OFMSW may disrupt the 
+AD process. In this regard, co-digestion 
+is the most efficient option to overcome 
+the problems associated with toxicity of 
+certain elements in the OFMSW. Apart 
+from that, other potential benefits of 
+co-digestion include stabilization of an 
+increased load of organic matter, improved 
+nutrient balance, better biogas 
+yield, and synergistic effect of microbes 
+(Khalid et al. 2011). The nutrient requirement 
+gets complemented by co-digestion 
+of an organic waste that provides 
+excess nutrients thereby improving 
+the C/N ratio, accelerating biodegradation 
+of the solid organic fraction, and 
+increasing the digestion and stabilization 
+rate. For instance, the use of a cosubstrate 
+with a low nitrogen and lipid 
+content increases the production of biogas 
+because of complementary characteristics 
+of both types of waste. This reduces 
+problems associated with the accumulation 
+of various intermediate 
+volatile compounds and high ammonia 
+concentrations (Castillo et al. 2006). 
+Moreover, co-digestion with sewage 
+sludge enables an integrated approach 
+allowing the wastewater treatment plant 
+to be independent as far as energy is 
+concerned (Mata-Alvarez and Cecchi 
+1989). Figure 4 represents the various 
+co-substrates that can be anaerobically 
+co-digested with OFMSW for the production 
+of biogas and sludge. 
+The potential of AD of OFMSW is also 
+envisaged in the domain of energy production. 
+The biogas generated from this 
+process may greatly complement a society's 
+need for energy. Today, the energy 
+crisis has affected most parts of the 
+world, and the generation of such a renewable 
+source of energy is a welcome 
+boost to the energy needs of civilizations 
+worldwide. The energy produced 
+via AD of OFMSW has a wide range of 
+applications in both domestic and industrial 
+domains. The biogas produced may 
+be used in electricity generation, heating 
+of furnaces, boilers, and fuel for vehicles. 
+Even the sludge produced has a 
+nutritional value, making it an effective 
+soil conditioner. Instead of costly fertilizers, 
+farmers can look forward to using 
+this inexpensive organic soil conditioner 
+thereby preventing damage to the parent 
+soil via the use of certain chemical fertilizers. 
+The abundant use of chemical 
+fertilizers in modern agricultural practices, 
+initiates imbalance in soil nutrients 
+and their wash-out via surface 
+runoff contaminates aquatic life. Hence, 
+it is advisable to use this naturally procured 
+soil conditioner as an organic 
+amendment for the betterment of and to 
+safeguard the overall environment.
+
+
+
+
+ 
+6. Critical issues in AD of OFMSW 
+
+The stability of an anaerobic digester 
+treating OFMSW depends on a number 
+of critical issues, which if left unaddressed, 
+would possibly result in the 
+failure of the digester. The aforementioned 
+potentials of the AD of OFMSW 
+can be correlated with the smooth and 
+
+13
+
+
+
+hassle-free operation of an anaerobic digester 
+treating OFMSW, which is a major 
+challenge considering the number of 
+critical operational issues that need to be 
+carefully monitored. Among the number 
+of critical operational issues linked 
+with the AD of OFMSW, the following 
+can be considered most important: (i) 
+nature of the seed and inoculum source; 
+(ii) operational temperature; (iii) OLR; 
+(iv) high solids/low solids digestion; (v) 
+mixing condition; (vi) nutrient requirements; 
+(vii) pH control; (viii) C/N ratio; 
+(ix) retention times; and (x) sorting techniques 
+employed for selecting the OFMSW. 
+Depending on these critical issues, 
+the reactor configuration, pretreatments, 
+recirculation strategies, start-up strategies, 
+and adoption of co-digestion may 
+be adjusted accordingly. In general, the 
+performance of an anaerobic digester 
+treating OFMSW largely depends on the 
+previously mentioned critical issues. 
+
+
+6.1. Start-up strategies for AD of OFMSW
+ 
+The start-up of an anaerobic digester 
+holds the key to its overall performance 
+and stability. Once the start-up has been 
+made successfully, an anaerobic digester 
+is capable of running with minimal attention, 
+as long as the steady-state operating 
+conditions are not altered significantly 
+(Hobson and Wheatley 1993). 
+Even though the most crucial issue that 
+dictates the start-up of an AD reactor 
+is the nature of the seed source, there 
+are other important factors, such as the 
+mode of giving the feed, the type of the 
+reactor, the nature of the feed or substrate, 
+the volume of the inoculum 
+added, the adaptation of the inoculum 
+and the process acclimatization from the 
+mesophilic to the thermophilic temperature 
+regime.
+ 
+6.1.1. Fundamental requirements 
+
+The start-up of an anaerobic digester is 
+mainly dictated by the nature of the inoculum 
+chosen. Sometimes the anaerobic 
+digesters treating OFMSW may 
+have to be started up using inoculum 
+that is not acclimated to digesting such 
+complex feedstock, resembling OFMSW. 
+Under such circumstances, a combination 
+of inocula from two different 
+anaerobic environments may be used as 
+a seed. Anaerobic digesters operated at 
+high substrate input are very much 
+prone to imbalance in the activities of 
+the hydrofytic-fermentative bacteria, the 
+proton-reducing acetogenic bacteria, 
+and the methanogens (Schink 1988). 
+This can be overcome by the use of 
+anaerobic sludge from a stable sewage 
+sludge digester, which provides a balanced 
+combination of fermenters, acetogens, 
+and methanogens. Similarly, for 
+successful start-up of a thermophilic AD 
+reactor, non-availability of a thermophilic 
+inoculum may be overcome by 
+the use of two different mesophilic inocula 
+as seed sludge (Griffin et al. 1998). 
+In the case of start-up of a pilot-scale 
+CSTR treating a mixture of both SSOFMSW 
+and MS-OFMSW, and operated 
+under a thermophilic temperature 
+regime, the best possible result, in terms 
+of specific methane production (SMP), 
+was obtained when the start-up of the reactor 
+was made at mesophilic temperatures 
+and then gradually shifted to the 
+thermophilic regime (Bolzonella et al. 
+2003). The inoculum type was a combination 
+of primary and secondary sludge 
+from a wastewater treatment plant. The 
+initiation of the feed was done only after 
+there was an appreciable drop in the initial 
+VFA level (<200 mg/L) and the inoculum 
+had been acclimatized at the 
+mesophilic temperature regime. Significant 
+specific gas production was noticed 
+at an OLR of 1 kg TVS/[m.sup.3] 
+of reactor per day with an HRT of 15 
+days. The changing from mesophilic to 
+thermophilic conditions contributed to 
+the degradation rate of the organic matter 
+and proteins, causing an increase in 
+the buffer capacity (Poggi-Varaldo et al. 
+1997a). In another study conducted by 
+Angelidaki et al. (2006) it was concluded 
+that the start-up of a thermophilic 
+CSTR treating SS-OFMSW and other 
+high-strength substrates can be successfully 
+made by the selection of a thermophilic 
+inoculum and the progressive 
+increase in the inoculum loading rate. 
+The importance of obtaining inoculum 
+adapted to the same temperature regime 
+or within [+ or -]10 [degrees]C of the intended 
+start-up process temperature was 
+inferred from the study. The main reason 
+for procuring inoculum adapted to [+ or 
+-]10 [degrees]C of the intended start-up 
+process temperature is the development 
+and retention of high concentrations of 
+active biomass content inside the reactor. 
+This is especially important for thermophilic 
+processes because mesophilic 
+sludge has been reported to contain only 
+9% thermophiles and 1% obligate-thermophiles 
+(Chen 1983). The progressive 
+increase in the inoculum loading rate 
+and the subsequent ratio of low substrate 
+concentration to constant inoculum volume 
+can be attributed to the fact that 
+the complete anaerobic degradation of 
+the organic solids with high specific 
+methane yield can be achieved without 
+the accumulation of inhibiting levels of 
+intermediate anaerobic degradation 
+products. In other words, the initial lowfeeding 
+strategy ensures a gradual balance 
+between the various anaerobic 
+degradation steps, which is necessary to 
+develop sufficient microbial degradation 
+capacity, thereby avoiding any possible 
+
+14
+
+
+
+VFA accumulation. Another reason for 
+optimizing the low initial amount of 
+fresh organic feed relative to the inoculum 
+amount during start-up is due to the 
+nature of the conventional digester type 
+like CSTR, where the acidogenesis and 
+methanogenesis phases occur together. 
+In the absence of classical inoculum, the 
+start-up of a mesophilic anaerobic digester, 
+treating SS-OFMSW, can be successfully 
+carried out by the right selection 
+of one or two different inocula and 
+subjecting them to chemical and microbiological 
+characterization. The importance 
+of subjecting the inoculum to 
+chemical and microbiological characterization 
+is related to the need to determine 
+the presence of microflora in the 
+inoculum and assess their methanogenic 
+activity before they are used. As such, it 
+was observed from the study conducted 
+by Maroun and El Fadel (2007) that during 
+the start-up of an anaerobic digester 
+(CSTR) treating SS-OFMSW, high initial 
+levels of ammonia and VFA were 
+exhibited at inhibitory levels, which restricted 
+the increase of the OLR. However, 
+this was overcome by the dilution 
+of the reactor content with mineral water 
+and re-inoculation with enriched cattle 
+manure (representing an appropriate 
+source of methanogens), which resulted 
+in the increase of the OLR by 116%.
+
+6.1.2. Classical issues related with startup 
+
+Even though it is stated in the literature 
+that a gradual increase in the OLR results 
+in a high methane production rate, 
+the overall TS content of the feed plays 
+a very important role in the start-up of 
+an anaerobic digester and the rate of 
+methane production. Based on the TS 
+content of solid organic waste, there are 
+three types of AD technology: wet 
+process ([less than or equal to]10% TS), 
+semi-dry process (10%-20% TS), and 
+dry process ([greater than or equal 
+to]20% TS). It has been observed from 
+various studies that, with an increase in 
+TS content above 30%, the methane 
+production rate decreases significantly 
+when compared to the semi-dry AD 
+process (Fernandez et al. 2008; Forster- 
+Carneiro et al. 2008c). This is mainly 
+due to reduced substrate degradation 
+rate and accumulation of intermediate 
+products (VFA mainly). However, this 
+can be overcome by significantly increasing 
+the moisture content of the feed 
+by: (i) increasing the moisture content 
+from 65% to 82% corresponding to a 
+feed with TS 35%, leading to a linear increase 
+in the specific methanogenic activity 
+by a factor of 3.5 (Le Hyaric et al. 
+2011); (ii) gradually acclimatizing the 
+methanogens to a feed with high TS 
+content (in excess of 30%), following 
+start-up with an inocula from an anaerobic 
+digester, which has reached a steady 
+state condition even after being subjected 
+to shock-loadings. 
+It was inferred from a study conducted 
+by Abbassi-Guendouz et al. (2012) that 
+with the increase in TS content, the firstorder 
+hydrolysis rate decreases. The 
+first-order rate of hydrolysis, a limiting 
+step in an AD process, was required to 
+be reduced to explain the cumulative 
+methane production rate corresponding 
+to a few experiments, which were uninhibited 
+by high VFA concentrations and 
+low pH at 30% TS. 
+The mass-transfer rate, which depends 
+on the texture of the substrate-biomass 
+mixture and the solid-liquid or -gas interface, 
+decreases with an increase in the 
+TS content. This can be attributed to the 
+fact that with the increase in the TS content 
+there is an increase in the viscosity 
+of the substrate-biomass mixture, which 
+causes a pasty texture and a decrease in 
+the porosity (water content) of the solidliquid 
+or -gas interface, leading to low 
+biogas bubble generation. Thus the volumetric 
+liquid or gas mass-transfer coefficient, 
+[k.sub.I] (which was equivalent 
+to [k.sub.L] a in the study), depends on 
+[k.sub.L] (the mass transfer coefficient) 
+and a (the specific surface area). It was 
+also determined from a study conducted 
+by Abbassi-Guendouz et al. (2012) 
+that the methane production rate was not 
+influenced by the overall mass transfer 
+above a critical [k.sub.T] value and that 
+the cumulative methane production remained 
+almost constant independent of 
+the [k.sub.T]. value. However, below 
+the critical [k.sub.T] value, limited overall 
+mass transfer considerably lowered 
+the cumulative methane production rate. 
+At high TS (30%-35%) content, the 
+overall mass transfer limitation was due 
+to the accumulation of inorganic carbon 
+(C[O.sub.2]), dissolved methane, and 
+dissolved hydrogen. The inorganic carbon 
+produced during methanogenes got 
+entrapped in the matrix at high TS content, 
+due to the low release of dissolved 
+compounds in the digestate. As a result, 
+the C[O.sub.2] accumulation in the matrix 
+increased, leading to local acidification 
+and subsequent inhibition of 
+methanogenesis from the start-up phase 
+implicating VFA accumulation. The accumulation 
+of dissolved hydrogen also 
+caused inhibition of valerate, butyrate, 
+and propionate degradation, resulting in 
+overall VFA accumulation (Lovely et al. 
+1982; Ahring and Westermann 1988; 
+Fukuzaki et al. 1990). Hence, the produced 
+hydrogen was also required to be 
+consumed locally or removed from the 
+liquid phase through liquid or gas mass 
+transfer (Vavilin et al. 1995). 
+
+6.1.3. Selection criteria for seed source 
+
+15
+
+
+
+As highlighted previously, the start-up 
+of an anaerobic digester treating OFMSW 
+depends on numerous factors. However, 
+it can be inferred from the preceding 
+discussions that the seed source 
+continues to be the most crucial aspect 
+in the start-up of an anaerobic digester 
+treating OFMSW, because the correct 
+composition of bacteria in the seedsource 
+is mainly essential for the stability 
+of the reactor following start-up. 
+In fact, the seed source must contain a 
+well-balanced supply of the following 
+classes of microorganisms: 
+1. Fermentative group of bacteria, which 
+are capable of carrying out the process 
+of hydrolysis by degrading the macromolecular 
+products (lipids, carbohydrates/
+polysaccharides, proteins, nucleic 
+acids) to soluble or simple monomers 
+(fatty acids, sugars/monosaccharides, 
+amino acids/long-chain fatty acids, 
+purines and pyrimidines) (Metcalf and 
+Eddy Inc. 2003). 
+2. A group of fermentative bacteria, 
+which are responsible for carrying out 
+the process of acidogenesis, whereby 
+the soluble or simple monomers (amino 
+acids, sugars, some fatty acids), produced 
+via hydrolysis, are fermented further 
+to [H.sub.2], C[O.sub.2], VFAs, 
+formate, propionate, butyrate, pyruvate, 
+alcohols, ketones, lactic acid, etc. (Metcalf 
+and Eddy Inc. 2003). 
+3. Acetogens, which are responsible for 
+converting the VFAs, alcohols, formate, 
+propionate, butyrate, etc., to hydrogen, 
+C[O.sub.2], and acetate. These acetogens 
+are known as obligate 
+[H.sub.2]producing acetogens. 
+4. Homoacetogens, which are capable 
+of carrying out homo acetogenesis by 
+reduction of C[O.sub.2] with [H.sub.2] 
+to acetate via the acetyl-CoA pathway 
+(2C[O.sub.2] + 4[H.sub.2] [right arrow] 
+C[H.sub.3]COOH + 2[H.sub.2]O) 
+(Diekert and Wohlfarth 1994; Drake et 
+al. 2008). 
+5. Methanogens, which are acetoclastic 
+methanogens, which convert acetic acid 
+to C[O.sub.2] and C[H.sub.4] and hydrogenotrophic 
+methanogens, that utilize 
+[H.sub.2] as the electron donor and 
+C[O.sub.2] as the electron acceptor to 
+produce C[H.sub.4] (Metcalf and Eddy 
+Inc. 2003). 
+Apart from these classes of microorganisms, 
+which can be considered as the 
+most important and fundamental groups 
+of bacteria necessary for the start-up of 
+any anaerobic digester, the seed must also 
+contain various syntrophs, such as nitrate 
+and sulfate reducing bacteria, and 
+propionate, acetate, lactate oxidizing 
+bacteria. 
+Depending on the nature of the operational 
+temperature regime opted for, the 
+seed has to be procured. However, because 
+the number of thermophilic digester 
+systems under operation is much 
+lower than the number of mesophilic digester 
+systems, the start-up of a thermophilic 
+anaerobic digester system can 
+be made with mesophilic seeds (i.e., 
+mesophilic anaerobic sludge). This is attributed 
+to the fact that mesophilic 
+anaerobic sludge hosts a large diversity 
+of anaerobes that can be effective for 
+start-up under thermophilic conditions 
+as well (Fernandez et al. 2008; Gallert 
+and Winter 1997). 
+Methanogens are obligate anaerobes 
+that cannot tolerate [O.sub.2] because 
+they are unable to form protective 
+spores in unfavorable environments 
+(Valdez-Vazquez et al. 2009). However, 
+methanogens can be found in oxic conditions 
+(Liu and Conrad 2010), such as 
+those prevailing in landfill leachate, 
+soils, manure (raw, dried, and aged), 
+compost, primary and secondary sludge 
+from activated sludge process systems, 
+and waste-activated sludge. Hence, the 
+preceding sources can be used for inoculating 
+anaerobic digesters. Cattle manure, 
+waste-activated sludge, sludge 
+from ASP systems are found to contain 
+acetotrophic methanogens, hydrogenotrophic 
+methanogens, and syntrophs, 
+which are essential for the startup 
+of an anaerobic digester system. In 
+the case of compost, the process of composting 
+at 60 [degrees]C and above enables 
+the thermo-tolerant methanogens 
+(present in the aerated compost) to carry 
+out exothermal aerobic respiration, 
+thereby increasing their numbers. They 
+remain in anoxic niches during the thermophilic 
+phase. Hence, during the startup, 
+the purpose of proper seeding can 
+thus be satisfied by filling up the reactor 
+using an equal volume of a mesophilic 
+or thermophilic seed and either of the 
+previously mentioned inocula. 
+
+
+6.2. Operational temperature selection 
+
+An AD system treating OFMSW can either 
+be operated under a mesophilic 
+temperature regime (30-38 [degrees]C) 
+or a thermophilic temperature regime 
+(49-57 [degrees]C), depending on the 
+extent or the need for biogas production. 
+It is well known that an AD system operating 
+under a thermophilic temperature 
+regime has a higher processing rate 
+and superior biogas production rate, 
+thereby enabling the use of smaller digestion 
+units compared to an AD system 
+operated under a mesophilic temperature 
+regime, provided all the critical operational 
+parameters are addressed properly. 
+In addition, an AD system oper- 
+
+16
+
+
+
+ating under a thermophilic temperature 
+regime has several other advantages 
+over a system operating under 
+mesophilic temperature regime, such as 
+provision for the selection of a high 
+OLR, higher VS and COD removal 
+rates, resistance to foaming, and superior 
+destruction of pathogens (Mao et 
+al. 2015). Moreover, thermophilic AD is 
+characterized by a significantly higher 
+hydrolysis rate (the rate limiting step in 
+the AD process), which is especially notable 
+when working with wastes with 
+high solid content, such as OFMSW (Li 
+et al. 2015). However, there are also 
+several disadvantages, such as slow 
+start-up and instability of the reactor 
+system. The instability of the reactor 
+system may arise out of lack of acclimated 
+seeds, which is evident in the case 
+of thermophilic anaerobic digester systems. 
+Another reason for the reactor instability 
+may be accumulation of various 
+intermediate products (alcohols, VFAs), 
+which necessitates long recovery periods 
+(Rastogi et al. 2008), resulting in 
+eventual system failure. Other problems 
+associated with thermophilic AD in 
+comparison to mesophilic AD include 
+higher sensitivity to operational conditions, 
+decreased stability due to ammonia 
+and VFA (especially propionic) accumulation, 
+poor quality of the supernatant, 
+lower methane content in biogas, 
+and higher net energy input (Song et al. 
+2004). 
+Another major problem associated with 
+a thermophilic AD system treating 
+OFMSW is the accumulation of propionic 
+acid. This can be explained from 
+the perspective of protein degradation, 
+which is greater at thermophilic temperatures 
+than mesophilic temperatures, 
+leading to generation of higher ammonium 
+([NH.sub.4.sup.+]-N) concentration 
+(Ariunbaatar et al. 2015). The ammonium 
+ions (N[H.sub.4.sup.+]) and free 
+unionized ammonia (N[H.sub.3]) ions 
+in an anaerobic solution are present in 
+chemical equilibrium, thereby forming 
+total ammoniacal nitrogen (TAN). This 
+equilibrium between ammonium and 
+free ammonia is dictated by pH and temperature 
+of the system. It was observed 
+by several researchers that higher concentrations 
+of ammonium ions in TAN 
+reduce the activities of the propionic 
+acid utilizing anaerobes leading to propionic 
+acid accumulation (Angelidaki 
+and Ahring 1993; Banks et al. 2012). 
+TAN is required to be present in an adequate 
+amount to provide buffer capacity 
+and meet nutritional requirements for 
+the methanogens. In a study conducted 
+by El-Hadj et al. (2009) it was inferred 
+that during AD of OFMSW the production 
+of methane was inhibited by as 
+much as 50% when the free ammonia 
+(N[H.sub.3]) concentration was 215 mg/ 
+L under mesophilic conditions and 468 
+mg/L under thermophilic conditions. 
+The concentration of ammonium ion 
+(N[H.sub.4.sup.+]-N) was found to be 
+3860 mg/L under mesophilic conditions 
+and 5600 mg/L under thermophilic conditions 
+to cause similar inhibition of 
+methane production. However, El-Hadj 
+et al. (2009) also inferred that an optimum 
+pH value of around 7 was found 
+throughout the mesophilic condition independent 
+of the TAN concentrations, 
+whereas during the thermophilic condition, 
+a TAN concentration of higher than 
+1331 mg/L resulted in an optimum pH 
+of 7.5, but when the TAN concentration 
+was below or equal to 1331 mg/L, the 
+optimum pH was in the range 7-8. 
+The availability of a higher number of 
+mesophilic digester systems substantiates 
+the selection of a mesophilic temperature 
+regime (Kim and Speece 2002; 
+Suwannoppadol et al. 2011). However, 
+if a thermophilic temperature regime is 
+opted for, it has to be ensured that the 
+operational temperature never exceeds 
+60 [degrees]C, as this may cause the inhibition 
+of propionate degradation and 
+the inhibition of hydrolysis. Also, if 
+thermo-tolerant mesophiles are used for 
+seeding there has to be a gradual increase 
+in the temperature profile during 
+the start-up phase. 
+Apart from the thermophilic and the 
+mesophilic AD systems, another relatively 
+new technology developed at 
+Iowa State University (Schmit and Ellis 
+2001), is the temperature-phased anaerobic 
+digestion (TPAD), which basically 
+combines the advantages of thermophilic 
+and mesophilic processes 
+while managing to avoid the disadvantages 
+of each one. This consists of a 
+short (SRT of 1-3 days) thermophilic 
+pre-treatment stage followed by a second 
+mesophilic stage, operated with a 
+longer retention time. The thermophilic 
+stage enhances the hydrolysis and the 
+acidogenesis rates, which are considered 
+to be the rate-limiting steps in the AD 
+process, whereas the mesophilic stage 
+provides stable conditions for syntrophic 
+acetogenesis and methanogenesis. In 
+other words, the thermophilic stage in 
+TPAD promotes hydrolysis and the 
+mesophilic stage ensures the stability of 
+the system by lessening the risk of inhibition 
+due to the accumulation of ammonia 
+and VFA. The thermophilic stage in 
+TPAD can be operated at either acidic or 
+neutral pH. At acidic pH, the hydrolysis 
+and the acidogenesis stages are favored 
+inhibiting the methanogenesis stage, 
+whereas at neutral pH, a dynamic balance 
+between hydrolysis or acidogenesis 
+and methanogenesis is achieved. The 
+subsequent mesophilic stage is thus used 
+as a polishing stage eliminating the disadvantages 
+of thermophilic digestion 
+
+17
+
+
+
+and facilitating the production of 
+methane at both acidic and neutral pH 
+stages (Lv et al. 2010, 2013). The concatenation 
+of the two temperature systems 
+allows a relatively faster process, 
+resulting in enhanced degradation of the 
+OFMSW, (feedstock) leading to a 
+greater yield in biogas. 
+Even though the TPAD system has been 
+mainly applied in the stabilization of 
+municipal sewage sludge, there have 
+been occasions where the technology 
+has been found to be effective in treating 
+FW (Chu et al. 2008; H.W. Kim et al. 
+2011) and OFMSW, as well (Schmit and 
+Ellis 2001). In a study conducted by 
+Borowski (2015) the TPAD system was 
+applied in the treatment of a mixture 
+of municipal sewage sludge and hydromechanically 
+separated OFMSW, which 
+resulted in a methane yield of 333 L 
+C[H.sub.4]/kg VS and 52.1% VS reduction, 
+compared to a single-stage 
+mesophilic process treating the same 
+waste, which showed a methane yield 
+of 230 L C[H.sub.4]/kg VS and VS removal 
+of 37.23%. As mentioned before, 
+the thermophilic stage of the TPAD system 
+was chosen to be operated at a 
+shorter SRT of 1 day followed by the 
+mesophilic stage at an SRT of 14 days. It 
+was observed from the study that when 
+the thermophilic stage of the TPAD system 
+was operated at an SRT of 2 days 
+instead of 1 day, the methane production 
+in the subsequent mesophilic reactor 
+was inhibited by high amounts of free 
+ammonia, which were liberated in the 
+supernatant because of greater intensity 
+of protein degradation under prolonged 
+exposure of the feedstock to the thermophilic 
+temperature. It was also observed 
+that high VFA concentrations, 
+with predominant propionic acid, also 
+contributed to the inhibition of methanogenesis, 
+when the SRT was kept high 
+during the thermophilic stage. The need 
+for a longer SRT for the mesophilic 
+stage in a TPAD system was asserted in 
+another study carried out by Fernandez- 
+Rodriguez et al. (2016). It was observed 
+that under SRT of 3 and 6 days for thermophilic 
+and mesophilic stages, respectively, 
+the yield of methane was lower 
+and the organic matter removal was also 
+lower than when the TPAD was run 
+at an SRT of 4 and 10 days for the same, 
+during semi-continuous TPAD of OFMSW 
+coming from a MBT plant. However, 
+at both sets of SRT the TPAD system 
+showed better performance than the 
+single-reactor systems at similar SRTs, 
+while treating OFMSW coming from an 
+MBT. 
+It can be concluded from this discussion 
+that a multi-stage (preferably a threestage) 
+anaerobic digester may be not only 
+economical but also appropriate. It is 
+well-known that in terms of the operational 
+temperature, the methanogens favor 
+higher temperatures, in the range of 
+30-38 [degrees]C (for mesophilic operations) 
+and 49-57 [degrees]C (for thermophilic 
+operations), for increased 
+methane production. In a single-staged 
+system with large digesters, the energy 
+required for elevating temperatures, as 
+mentioned, is often greater than the energy 
+produced, thereby making it uneconomical. 
+
+
+6.3. OLR 
+
+The OLR depends on numerous factors, 
+such as the nature of the substrate, type 
+of digestion (wet or dry) and reactor 
+configuration (single-stage or multistage). 
+For instance, highly biodegradable 
+substrates (such as FW) account for 
+rapid degradation, thereby resulting in 
+the production of VFA and other intermediate 
+products within a very short 
+time. This causes a decrease in pH below 
+6.8 resulting in reactor instability. 
+Apart from that, foaming also occurs because 
+of propionate accumulation 
+adding to the reactor instability. A low 
+OLR, during the start-up phase, ensures 
+complete degradation of the accumulated 
+products. The OLR should only be 
+increased gradually after pH, alkalinity, 
+and other important operational parameters 
+are stabilized (such as VFA < 300 
+mg/L as C[H.sub.3]COOH, COD removal 
+above 70% or when the 
+C[H.sub.4] content in the biogas is 60%) 
+(Poggi-Varaldo and Oleszkiewicz 1992; 
+Poggi-Varaldo et al. 1997b). Similarly, 
+if wet digestion (3%-6% TS content) is 
+adopted, the OLR could be kept high 
+and if dry digestion (TS content > 15% 
+of the substrate input) is adopted, the 
+OLR has to be kept low. 
+Reactor configuration also plays a vital 
+role in determining the OLR. Singlestage 
+reactor treating highly biodegradable 
+wastes needs to be operated at low 
+OLR. This is because the highly 
+biodegradable wastes mostly comprise 
+up to 75% sugars and hemicelluloses 
+and 15% recalcitrant (lignin and cellulose). 
+This composition results in the 
+rapid production of VFAs, necessitating 
+a low OLR to avoid reactor instability. 
+The need to lower the OLR can again 
+be attributed to the sharp drop in pH, 
+arising from high VFA production. The 
+rate of acidogenesis being greater than 
+the rate of methanogenesis results in the 
+destruction of the VFAs by the 
+methanogens very slowly (Bouallagui et 
+al. 2005; Ward et al. 2008). Thus it can 
+be inferred that a high OLR can only 
+be employed if the reactor configuration 
+is multi-staged, so that the process of 
+methanogenesis is not hampered by 
+VFA accumulation. 
+
+18
+
+
+
+6.4. Type of digestion 
+
+Generally there are two types of digestion 
+that can be employed in an anaerobic 
+digester system. They are dry digestion, 
+also known as high-solids digestion, 
+and wet digestion, also known 
+as low-solids digestion. Wet digestion is 
+defined as the presence of 3%-6% (or 
+less than 15%) TS in the substrate input, 
+whereas dry digestion is defined as the 
+presence of more than 20% TS in the input 
+substrate. However, the Theological 
+behavior of solid organic wastes classifies 
+AD into three types, with semi-dry 
+AD being the intermediate one. Hence, 
+in a broader perspective it can be said 
+that wet AD is classified as [less than 
+or equal to]10% TS content in the substrate, 
+semi-dry AD is classified as 
+10%-20% TS in the substrate, and dry 
+AD is classified as [greater than or equal 
+to]20% TS content in the substrate (Abbassi-
+Guendouz et al. 2012). The selection 
+of the digestion type depends on 
+the nature of the substrate, operational 
+temperature, and reactor configuration. 
+For instance, highly biodegradable substrates 
+(FWs) necessitate wet digestion, 
+because the large fraction of carbohydrates 
+results in the production of a high 
+concentration of VFAs, which gets removed 
+by the methanogens very slowly 
+(i.e., the rate of VFA production is 
+greater than the rate of VFA destruction). 
+However, in the case of a multistaged 
+reactor system, where hydrolysis, 
+acidogenesis, and methanogenesis occur 
+in separate chambers, dry digestion can 
+be adopted even if the substrate is highly 
+biodegradable, because the accumulated 
+VFAs never interfere with the methanogenesis. 
+The operational temperature regime also 
+plays a role in determining the type of 
+digestion. A system employing a thermophilic 
+temperature regime has a high 
+OLR, which means it can opt for highsolids 
+digestion. However, systems employing 
+a mesophilic temperature 
+regime can also opt for high-solids digestion 
+provided wet digestion is selected 
+during the start-up phase and continued 
+until the digester system is stabilized 
+(i.e., the digestion system reaches 
+a steady state condition) (Bolzonella et 
+al. 2003). 
+
+
+6.5. Mixing 
+
+One of the most crucial operational factors 
+that influences the performance of 
+an AD system involving stabilization of 
+OFMSW is mixing. The impact of mixing 
+on the digester performance depends 
+largely on the intensity and the mode of 
+employing the mixing operation. Proper 
+mixing is important for the homogenization 
+of the waste, the interaction between 
+the nutrients, and the viable bacteria 
+population, uniform heat distribution, 
+improved retention (SRT and HRT) 
+times, the efficient dispersion of metabolic 
+waste, the degradation of the accumulated 
+propionate, and pathogen removal 
+(El-Fadel et al. 2013). Apart from 
+these, mixing also reduces the particle 
+size by shear forces, thereby increasing 
+the waste surface area. Hydrolysis, 
+which is a rate-limiting step, gets enhanced 
+as a result of increase in waste 
+surface area, because the accessibility 
+of the substrates inside the reactor increases 
+(Halalsheh et al. 2011). Effective 
+mixing also results in the inactivation 
+of dead-zones, thereby minimizing 
+channeling. In the absence of mixing, 
+there is a reduction in the effective digester 
+volume by up to 60%. The degradation 
+of accumulated propionate results 
+in improved reactor stability. 
+Even though it is seen that mixing is one 
+of the critical issues in dictating the stability 
+and consistency of an AD system, 
+and that the performance of AD system 
+treating OFMSW gets improved by 
+employing the mixing operation, there 
+are also considerable debates surrounding 
+the various problems associated with 
+the mixing operation. The absence of 
+mixing during the starting up of a reactor 
+shortens the start-up period. Interrupted 
+mixing leads to formation of hydraulic 
+dead-zones, thereby reducing the 
+HRT and adversely affecting the reaction 
+kinetics. The most common problem 
+associated with mixing is that it increases 
+the distance between syntrophic 
+partners and destroys their associations 
+(McMahon et al. 2001; Stroot et al. 
+2001). The degradation of organic acids, 
+alcohols, propionate, butyrate, valerate, 
+etc., is due to close microbial proximity 
+of less than 10 [micro]m, and mixing increases 
+the distance between syntrophic 
+partners. For the production of [H.sub.2] 
+and formate, the [H.sub.2] partial pressure 
+should be less than [10.sup.-4] atm. 
+The acidogenic bacteria functions at 
+[H.sub.2] partial pressure of less than 
+[10.sup.-4] atm, which is only possible 
+if the hydrogenotrophic bacteria converts 
+the [H.sub.2] and C[O.sub.2] to 
+[CH.sub.4]. In the absence of mixing, 
+the microbial proximity remains less 
+than 10 [micro]m, thereby facilitating 
+the transfer of [H.sub.2], C[O.sub.2], 
+and acetate to their consumers (the hydrogenotrophic 
+and the acetoclastic 
+methanogens). This prevents the accumulation 
+of propionate, which is degraded 
+by the acidogens. The acidogens 
+can survive at [H.sub.2] partial pressure 
+of less than [10.sup.-4] atm (Batstone et 
+al. 2004). 
+The strategy of recirculation over mixing 
+also seems advantageous. Studies 
+show that AD systems employing re- 
+
+19
+
+
+
+circulation of slurry have better performances 
+than those employing mechanical 
+mixing by impellers (Karim et al. 
+2005), which are difficult to maintain. 
+Recirculation has a negligible effect in 
+systems operating at low solids content. 
+Recirculation of leachate (El-Mashad et 
+al. 2003) also enhances the performance 
+of an AD system, because it enables the 
+transportation of VFAs from acidogenic 
+pockets (fresh substrates) to 
+methanogenic pockets (seeds) (Veeken 
+and Hamelers 2000). 
+
+
+6.6. Nutrient requirements 
+
+For the smooth functioning of an AD 
+system, the microbes are needed to be 
+supplemented with various macro- and 
+micro-nutrients along with trace elements. 
+This is because certain substrates 
+lack the necessary nutrients required for 
+the stable operation of the AD system. 
+For instance, vegetable waste lacks sufficient 
+cobalt concentration (Jiang et al. 
+2011); hence it has to be compensated 
+by the external addition of cobalt. However, 
+in certain cases even if the nutrients 
+are present, they become inaccessible 
+to the microbes because of various 
+hindrances. For instance, sulfide precipitation 
+reduces the availability of iron, 
+cobalt, nickel, etc. (Barber and Stuckey 
+2000), which are essential nutrients for 
+the methanogens. The digestion procedure 
+(mono or co-digestion) employed, 
+along with the nature of the substrate to 
+be digested and the digester type, also 
+dictates the extent of the trace element 
+supplementation (Demirel and Scherer 
+2011). If the performance of an anaerobic 
+digester is poor without any obvious 
+reason, it should be checked for certain 
+trace elements, the deficiency of which 
+may be a major problem. 
+It was reported in a study by Lane 
+(1984) that lab-scale mesophilic AD using 
+a trace solution containing Fe, Zn, 
+Mn, Cu, and Mo resulted in organic 
+solids conversion ranging from 88% to 
+96% and a methane yield between 50% 
+and 65%. More recently, a comprehensive 
+study was carried out by Kayhanian 
+and Rich (1995) exploring the addition 
+of both micro- and macro-nutrients to 
+OFMSW undergoing a thermophilic pilot-
+scale AD. It was observed that the 
+addition of various macro-nutrients, 
+such as Co, Cu, Fe, Mo, Ni, Se, W, and 
+Zn, resulted in an elevated rate of gas 
+production by 30%, along with increased 
+digester stability. It was inferred 
+that obtaining digester stability was primarily 
+on account of supplementation of 
+both macro- (N, K, P, and S) and micro-
+nutrients (trace metals). The addition 
+of trace metals, such as Co, Ni, Mo, 
+B, Se, and W was investigated by Feng 
+et al. (2010) in a lab-scale AD of food 
+industry residues. It was observed that 
+the addition of high concentrations of 
+Se or W and low level Co resulted in 
+the highest production of methane. The 
+concentration ranges of Se and W after 
+addition varied from 0.008 to 0.8 mg/ 
+L and 0.018 to 1.80 mg/L, respectively, 
+whereas the Co concentration ranged 
+between 0.06 and 6 mg/L. In a separate 
+study by Lo et al. (2012) the effects of 
+eight different metals, namely, Ca, Cr, 
+Ni, Co, Mo, W, Zn, and K were investigated 
+on the AD of OFMSW under 
+mesophilic conditions. Consequently, it 
+was observed that there was enhanced 
+biogas production due to the addition of 
+Ca, Cr, Ni, Co, Mo, andW, with concentrations 
+in the range of 728-1461 mg/L, 
+0.0022-0.0212 mg/L, 0.801-5.362 mg/ 
+L, 0.148-0.580 mg/L, 0.044-52.94 mg/ 
+L, and 0.658-40.39 mg/L, respectively. 
+However, the addition of K and Zn did 
+not show any enhancement in biogas 
+production. On the other hand, it was 
+also observed that, with the exception 
+of Mo and W, inhibitory concentrations 
+I[C.sub.50] of Ca, K, Cr, Ni, Zn, and Co 
+were 3252, 2097, 0.124, 7.239, 0.482, 
+and 8.625 mg/L, respectively. Above all, 
+the study by Lo et al. (2012) inferred 
+that the addition of the eight spiked metals 
+resulted in their adsorption by the 
+OFMSW to a different extent, thereby 
+causing different liquid metal levels, potential 
+stimulation, and inhibition on AD 
+of OFMSW. 
+Climenhaga and Banks (2008a) inferred 
+that during bench-scale AD of source 
+separated food residues (FVW, cooked 
+foods including meats and fried foods, 
+peelings, bones, and fat trimmings) at a 
+constant OLR and varied HRT levels of 
+25, 50, and 100 days, the regular addition 
+of micro-nutrients provided stable 
+digestion, which was otherwise absent. 
+This study also concluded that the presence 
+of heavy metals in the feedstock 
+may not have been bioavailable for the 
+methanogens for various reasons. As 
+mentioned earlier, various heavy metals, 
+despite being present in the feedstock, 
+become inaccessible to the methanogens 
+because they get precipitated by sulfides. 
+In some cases, long-chain fatty 
+acids may also bind with minerals, such 
+as calcium, making them inaccessible to 
+methanogens. In a separate study by Kumar 
+et al. (2006) it was concluded that 
+when certain heavy metals, such as Ni, 
+Zn, and Cd, were added at concentrations 
+of 2.5 mg/L to an AD reactor treating 
+potato waste and cattle manure, 
+there was enhanced biogas production. 
+However, the biogas production was accessible 
+for only a very short period because 
+the pH of the substrate decreased 
+to a toxic level after 2-3 days of AD after 
+which it was not possible to recover 
+it. 
+
+20
+
+
+
+Mostly methanogenic bacteria present 
+in pure cultures use [H.sub.2] and 
+C[O.sub.2] as growth substrates. However, 
+Methanosarcina barkeri has been 
+reported to use methanol and acetate in 
+addition to [H.sub.2] and C[O.sub.2]. 
+Among the vast group of highly specialized 
+methanogenic bacteria 
+Methanosarcina barkeri seemed to be 
+the most versatile with respect to the 
+number of substrates utilized. This is attributed 
+to the fact that it not only grows 
+chemoautotrophically on [H.sub.2] plus 
+C[O.sub.2], but also chemoorganotrophically 
+on methanol, methylamine, dimethylamine, 
+trimethylamine or acetate 
+as carbon and energy sources (Schnellen 
+1947; Kluyver and Schnellen 1947; 
+Hippe et al. 1979). It was reported in 
+a study by Mountfort and Asher (1979) 
+that M. barkeri has a specific physiological 
+requirement for sulfide. Later on, 
+Scherer and Sahm (1981) observed that 
+M. barkeri was dependent on cobalt 
+when grown in a defined medium with 
+methanol, as energy and carbon source. 
+In the absence of cobalt M. barkeri grew 
+only very slowly compared with growth 
+on the medium containing 1 [micro]mol/ 
+L Co[Cl.sub.2]. Moreover, Scherer and 
+Sahm (1981) demonstrated that the addition 
+of 0.5 [micro]mol/L molybdenum 
+was stimulatory to growth under those 
+conditions. They also observed that the 
+growth of M. barken was significantly 
+stimulated by the addition of nickel and 
+selenium to the culture medium. 
+Another important methanogenic bacterium 
+is Methanobacterium thermoautotrophicum. 
+However, unlike M. barkeri, 
+the growth of M. thermoautotrophicum 
+depends on [H.sub.2] and 
+C[O.sub.2] as the sole energy and carbon 
+sources. It was observed by Zeikus 
+and Wolfe (1972) that N[H.sub.3] and 
+[H.sub.2]S were used by M. thermoautotrophicum 
+as nitrogen and sulfur 
+sources. In addition, Taylor and Pirt 
+(1977) observed the growth of the bacterium 
+to be dependent on iron. In a later 
+study by Schonheit et al. (1979) it was 
+observed that the formation of M. thermoautotrophicum 
+was proportional to 
+the addition of Ni, Co, and Mo into the 
+medium. Interestingly, Schonheit et al. 
+(1979) observed that the cell proliferation 
+of the M. thermoautotrophicum was 
+dependent on nickel, which is generally 
+not an essential element for bacterial 
+growth. The dependency on cobalt did 
+not indicate the presence of corrinoids, 
+which are synthesized by cobalt, in the 
+bacterium. This was because the added 
+transition metal was also a component 
+of transcarboxylase (Northrop and 
+Wood 1969). 
+The presence of trace metals as micronutrients 
+is crucial for an anaerobic reactor 
+stabilizing solid organic waste. In 
+the absence of these elements, there may 
+be poor process efficiency and eventually 
+reactor failure. However, the presence 
+of those elements above certain concentrations 
+poses difficulties for the 
+methanogenic bacteria to function properly. 
+For instance, in a study by Ashley 
+et al. (1982) it was shown that dissolved 
+concentrations of nickel greater than 1 
+mg/L caused inhibition of methanogenesis 
+during AD of sewage sludge. Bhattacharya 
+et al. (1995) demonstrated that 
+in a medium containing acetate-utilizing 
+methanogenic enrichment culture, complete 
+inhibition of methanogenesis was 
+caused by the presence of 70 mg/L of 
+free cobalt and 280 mg/L of total soluble 
+cobalt, respectively. Also, free cobalt to 
+VSS ratio exceeding 0.05 and total soluble 
+cobalt to VSS ratio exceeding 0.16, 
+caused complete failure of methanogenesis. 
+Earlier, studies found that various 
+heavy metals, such as zinc, nickel, and 
+cadmium were much more toxic to 
+methanogenesis from acetate compared 
+to nickel (Lin 1992; Leslie 1991; Akanbi 
+1990). 
+It can be said that the source of the 
+MSW plays a key role in determining 
+the heavy metal content of the OFMSW 
+undergoing AD. As such, the total absence 
+of heavy metals can prove to be 
+detrimental to the growth of microbes 
+involved in AD (Abbasi and Ramasami 
+1999). Hence, the addition of micro- and 
+macronutrients in the form of certain 
+trace elements and heavy metal supplementation 
+is essential during the start-up 
+of an AD process, dedicated to stabilizing 
+OFMSW. But, adequate care has to 
+be taken so that the addition of those elements 
+does not exceed inhibitory levels, 
+which may cause unrecoverable cessation 
+of the anaerobic digester. 
+
+
+6.7. pH Control 
+
+The stability and consistency of an AD 
+system greatly depends on the pH of 
+the system. The fermentative and the 
+methanogenic group of bacteria are all 
+pH-sensitive and operate at different 
+pH-ranges. The slightest change in the 
+desirable pH results in the cessation of 
+the reactor performance. The favorable 
+pH range for the growth of 
+methanogenic bacteria is 6.8-7.3 (Brummeler 
+and Koster 1989). The optimum 
+pH for hydrolysis and acidogenesis is 
+between 5.5 and 6.5 (Kim et al. 2003; 
+Yu and Fang 2002), whereas the growth 
+rate of methanogens is greatly reduced 
+below pH 6.6 (Mosey and Fernandes 
+1989). At an excessively alkaline pH, 
+disintegration of microbial granules occurs, 
+which subsequently causes process 
+failure (Sandberg and Ahring 1992). 
+The anaerobic acid-forming bacteria 
+have a lower pH range of less than 6.8 
+
+21
+
+
+
+for growth (e.g., 5.0-6.0). Undissociated 
+volatile acids, which are present below 
+pH 6.8, are harmful to methanogens, because 
+they can penetrate the bacterial 
+cells without any resistance. The pH inside 
+the methanogens is higher than the 
+pH of the external medium, which results 
+in the release of protons from the 
+undissociated volatile acids causing inhibition 
+in the formation of ATP and 
+other processes inside the cytoplasm of 
+the methanogens. This in turn inhibits 
+methane formation (Anderson and Yang 
+1992; Mounfort 1978). Also, atpHabove 
+7.3, N[H.sub.3], a toxic form of 
+N[H.sub.4]-N, formation occurs resulting 
+in suppression of the methanogenic 
+activity (El-Fadel et al. 2013). 
+It can be garnered from the preceding 
+discussion that a multi-staged reactor 
+(preferably a three-stage reactor system) 
+is more advantageous in terms of stability 
+and operational consistency than 
+a single-stage reactor. For instance, the 
+working pH of the hydrolytic and the 
+acidogenic bacteria lies in the range of 
+5.5-6.5, whereas the methanogens have 
+an optimum pH of 7.8-8.2 (Khanal 
+2008). A single-stage reactor system 
+thus makes it difficult for the 
+methanogens to operate because they 
+are not only highly pH sensitive, but the 
+organic acids produced inhibit their 
+growth and metabolic activity. In the 
+case of a single-stage reactor, the drop in 
+pH may be countered by the use buffering 
+agents (e.g., lime) so that a suitable 
+pH in the range of 7.8-8.5 is obtained 
+for the operation of the methanogens. 
+But, when and if the buffering agents are 
+added, the pH adjustments should be so 
+estimated and worked out that the conditions 
+in the reactor are equally suitable 
+for hydrolysis and acidogenesis to occur. 
+Alkalinity plays a vital role in controlling 
+the pH of an AD system. The total 
+alkalinity of an AD system should generally 
+lie between 7400 and 27000 mg/ 
+L as CaC[O.sub.3] (Cecchi et al. 2003; 
+Banks et al. 2008). The alkalinity should 
+be properly maintained, because a drop 
+in alkalinity indicates a subsequent drop 
+in pH level. On the other hand, the bicarbonate 
+alkalinity of an AD system 
+should be in the range of 2400-5400 mg/ 
+L (Anderson and Yang 1992; Ferrer et 
+al. 2010). The bicarbonate alkalinity is 
+the main carbon source for the autotrophic 
+methanogens and represents 
+the true buffering capacity of the system. 
+In an AD system, the buffering capacity 
+is often referred to as alkalinity 
+and it is responsible for the equilibrium 
+of carbon dioxide and bicarbonate ions. 
+It provides resistance to significant and 
+rapid changes in pH and therefore is 
+proportional to the concentration of bicarbonate. 
+The digester imbalance can 
+be measured more reliably using buffering 
+capacity than by pH measurement, 
+which is a direct approach, because accumulation 
+of VFAs reduces the buffering 
+capacity significantly before the decrease 
+in pH (Ward et al. 2008). The increase 
+in a low buffering capacity can be 
+brought about by reduction in the OLR. 
+However, the addition of strong bases or 
+carbonate salts, which results in the removal 
+of C[O.sub.2] from the gas space 
+by converting it into bicarbonate, is a 
+more rapid approach to increase the 
+buffering capacity (Guwy et al. 1997). 
+The latter process of increasing buffering 
+capacity is more accurate, because 
+the conversion from C[O.sub.2] to bicarbonate 
+requires a time lag for gas 
+equilibrium to occur, which may result 
+in over-dosing. Other approaches include 
+modification of the inoculum-tofeed 
+ratio, which helps to maintain a 
+constant pH (Gunaseelan 1995), and 
+co-digestion with another substrate, 
+which has a higher alkalinity. 
+The VFA to alkalinity ratio ([alpha]) is a 
+parameter that indicates the balance between 
+the potential pH drop (VFA accumulation) 
+and the buffering capacity 
+(alkalinity) of the system (Poggi-Varaldo 
+and Oleszkiewicz 1992). The alkalinity 
+ratio ([alpha]) can be represented by, 
+[alpha] = [Acetic acid equivalents] / 
+[Calcium carbonate equivalents] 
+The desired and optimal value of [alpha] 
+is less than 0.3, even though the values 
+of [alpha] between 0.3 and 0.4 are acceptable. 
+If the value of [alpha] exceeds 
+0.4 then the digester is at risk because 
+of potential VFA accumulation (Schoen 
+et al. 2009). The accumulation of VFA 
+can be prevented by suspended feeding, 
+until the excess VFA is consumed, or 
+by bio-augmentation using pure hydrogenotrophic 
+culture or hydrogenotroph-
+rich seeds (Angenent et 
+al. 2004). 
+MSW can be deemed as the most variable 
+feedstock, especially given the fact 
+that the yield of methane largely depends 
+not only on the sorting technique, 
+but also on the location of the source of 
+feedstock and the time of collection. For 
+instance, during the summer season the 
+MSW will have a larger portion of garden 
+waste in its organic fraction eventually 
+leading to lower ultimate methane 
+yield. Similarly, locations also influence 
+the type of FW produced and the organic 
+fraction generated by lifestyle and cultural 
+differences (Ward et al. 2008). As 
+such, the pH of the substrate or feedstock 
+is also greatly influenced by the 
+different composition and nature of the 
+FW, kitchen waste, market waste, 
+
+22
+
+
+
+restaurant waste, etc., based on the season 
+and the source where from they are 
+being collected. If the substrate has organic 
+fractions enriched with VS 
+(FVWs) then there is rapid degradation 
+in the anaerobic digester. This leads to 
+rapid hydrolysis that may lead to acidification 
+of the digester and the consequent 
+inhibition of methanogenesis. Hence, 
+feedstock or substrates, which are rapidly 
+hydrolyzed, are capable of inhibiting 
+methane formation by acidification of 
+the digester. On the contrary, if the substrate 
+has organic fractions, which are 
+poorly degradable (yard waste, paper 
+waste), the hydrolysis phase becomes 
+the rate-limiting step. 
+In a study conducted by Forster- 
+Carneiro et al. (2008a), the feedstock 
+characteristics of three different organic 
+wastes, FW, OFMSW, and SH-OFMSW, 
+were carried out. It was observed 
+from the study that the initial mean pH 
+of the three substrates was FW-7.0, SHOFMSW-
+7.6, OFMSW-7.3; and the initial 
+mean alkalinity was FW-200 mg/L 
+as CaC[O.sub.3], SH-OFMSW-300 mg/ 
+L as CaC[O.sub.3], OFMSW-510 mg/ 
+L as CaC[O.sub.3], emphasizing the 
+aforementioned perspective of change 
+in the pH and alkalinity. On the contrary, 
+during thermophilic AD of the previously 
+mentioned feedstock the pH values 
+remained around 8.1 for the FW reactor; 
+7.8 for the SH-OFMSW reactor; 
+and 7.9 for the OFMSW reactor. The 
+mean alkalinity values were 900 mg/L 
+as CaC[O.sub.3] for the FW reactor; 
+1400 mg/L as CaC[O.sub.3], for the SHOFMSW 
+reactor; and 1650 mg/L as 
+CaC[O.sub.3], for the OFMSW reactor. 
+It was concluded that the nature of organic 
+substrate has an important bearing 
+on the overall biodegradation process 
+and methane yield. 
+VFA is a key intermediate in the process 
+of AD, which is capable of inhibiting 
+methanogenesis at high concentrations. 
+It is a crucial parameter that influences 
+the pH of an AD system. It is evident 
+that the higher the VFA concentration 
+in a system the lower the pH and the 
+greater the environment is favoring the 
+growth of acid-forming bacteria. In other 
+words, the environment becomes increasingly 
+unfavorable for the 
+methanogens to survive. Normally the 
+VFA inhibiting range is 1000-3000 mg/ 
+L as C[H.sub.3]COOH (Angelidaki et 
+al. 2005). The wide range is due to various 
+microbial structures having different 
+buffering capacities because of their 
+varying toleration and acclimation capacities. 
+For instance, the methanosarcinaceae 
+is found to be more tolerant to 
+VFA than the methanosaetaceae 
+(Karakashev et al. 2005). In a study carried 
+out by Siegert and Banks (2005) it 
+was observed that fermentation of glucose 
+was inhibited at total VFA concentrations 
+above 4000 mg/L as 
+C[H.sub.3]COOH. Although acetic acid 
+is usually present in higher concentrations 
+during AD than other fatty acids, 
+the activities of the methanogens are 
+more inhibited by propionic and butyric 
+acids (Wang et al. 1999). Even though 
+Boone and Xun (1987) reported that 
+propionic acid concentrations above 
+3000 mg/L caused digester failure Pullammanappallil 
+et al. (2001) concluded 
+that the propionic acid was the effect of 
+inhibition in an AD system rather than 
+the cause. An increase in VFA concentration 
+can be due to overload of OLR, 
+hence monitoring of VFAs, particularly 
+butyrate and isobutyrate, has been 
+demonstrated to indicate process stability 
+(Ahring et al. 1995). This may be attributed 
+to the fact that the methanogens 
+present in an AD system are not able 
+to metabolize the acetate produced unless 
+their numbers are sufficiently high. 
+As mentioned before, in the case of organic 
+feedstock, which has high VS, the 
+degree of hydrolysis is rapid and may 
+especially contribute to this problem of 
+VFA accumulation. Because methanogenesis 
+inhibitors, such as excessive fatty 
+acids, [H.sub.2]S, and N[H.sub.3], 
+are mainly toxic in their unionized 
+forms, it is imperative to control their 
+concentrations so that there is a balance 
+in the overall pH. This is because the 
+relative proportion of the ionized and 
+unionized forms is pH-dependent. For 
+instance, ammonia is toxic above pH 7 
+whereas, VFA and hydrogen sulfide are 
+toxic below pH 7. 
+As mentioned before, the composition 
+of OFMSW varies widely, ranging from 
+FW (vegetable waste or fruit peels) to 
+yard waste (leaves or grasses). The strategy 
+of the waste collection greatly affects 
+the characteristics of OFMSW, 
+hence the yield of biogas and disposal 
+(agricultural fields, landfill, or incineration) 
+of the solid-sludge or digestate, 
+following the AD process. The SBP and 
+SMP was observed to be 200 
+[m.sup.3]/ton of waste treated and 0.4 
+[m.sup.3]/kg of VS (fed to the reactor), 
+respectively, in case of SS-OFMSW. 
+However, for a mixture of the grey fraction 
+of MSW, MS-OFMSW, and sludge, 
+the SBP and SMP were recorded as 60 
+[m.sup.3]/ton of waste treated and 0.13 
+[m.sup.3]/kg of VS, respectively (Bolzonella 
+et al. 2006). Thus it was inferred 
+that higher biogas yields were generally 
+obtained with SS-OFMSW than from 
+MS-OFMSW. Also, the digestate of 
+MS-OFMSW was difficult to handle 
+and had to be disposed of in landfills, 
+or incinerated. However, the heterogeneous 
+nature of OFMSW in SS-AD system 
+may create a multiplicity of ideal 
+
+23
+
+
+
+micro-environments for the growth of 
+each of the microbial families required 
+to complete the AD process. This in turn 
+may result in the fermentative processes 
+of hydrolysis and acidogenesis proceeding 
+differently than in conventional submerged 
+culture (Shankaranand et al. 
+1992). 
+Fermentative microorganisms, especially 
+hydrolytic acidogens, require large 
+surface areas to colonize and hydrolyze 
+feedstock, which are insoluble. They operate 
+actively at relatively low pH 
+(5.5-6.0) (Chyi and Dague 1994). On 
+the other hand, syntrophic acetogens 
+and methanogens require stable neutral 
+pH for functioning and are very sensitive 
+to even low concentrations of inhibitors 
+(e.g., N[H.sub.3], [H.sub.2]S, 
+and short chain fatty acid). Not only 
+that, syntrophic acetogens also need 
+close proximity with methanogens for 
+efficient interspecies hydrogen transfer. 
+In the case of feedstock, which are rich 
+in lignocellulose, the enhancement in 
+hydrolysis is brought about by high temperatures, 
+at which the loosening of the 
+structure of the lignocellulose starts, 
+thereby making them more accessible 
+to colonization by cellulolytic and xylanolytic 
+microbes, and their glycosyl 
+hydrolases, eventually accelerating the 
+enzymatic hydrolytic reaction (Lv et al. 
+2010). However, high-temperature 
+based thermophilic anaerobic reactors 
+suffer from poor stability, because of accumulation 
+of short chain fatty acids, 
+especially propionate; reduced methane 
+production; and increased carbon dioxide 
+content (Speece et al. 2006; Iranpour 
+2006). During the early stages of the 
+thermophilic AD process, it is possible 
+to reduce methanogenic inhibition due 
+to excessive VFA accumulation and the 
+subsequent drop in pH by co-digesting 
+carbohydrate-rich feedstock with other 
+feedstock, or by using a two-phase digestion 
+system, such as TPAD (Li et al. 
+2011). Another way of preventing the 
+methanogenic inhibition is by leachate 
+recycling, which enables the colonization 
+of the bacteria throughout the digester 
+by providing a passive transport 
+mechanism for microbial communities. 
+This also considerably reduces the need 
+for the large amount of digestate material 
+required to inoculate the fresh feedstock 
+before loading the digester. Even 
+though this serves to be beneficial, in the 
+case of AD system employing SS-OFMSW, 
+the requirement of the solid-sludge 
+or digestate to inoculate the fresh feedstock 
+is also one of the major limitations 
+of SS-AD (Li et al. 2011).
+
+
+6.8. C/N ratio 
+
+The C/N ratio is an important parameter 
+indicative of the nature of the waste and 
+its potential biodegradability. The stability 
+of an anaerobic digester can be ascertained 
+by selecting the C/N ratio as the 
+variable parameter. This can be attributed 
+to the fact that the C/N ratio determines 
+both the N[H.sub.3]-N and VFA 
+concentrations observed in the anaerobic 
+digester. With the increase in 
+N[H.sub.3]-N, the pH is raised, whereas 
+the VFAs, which neutralize the 
+HC[O.sub.3.sup.-], C[O.sub.3.sup.2.-], 
+and acetate ions, govern the decrease in 
+pH (Shanmugam and Horan 2009). It 
+was reported by Callaghan et al. (2000) 
+and Salminen and Rintala (2002) that in 
+case of AD systems acclimatized to treat 
+high protein wastes the tolerance level 
+of N[H.sub.3] were 11600 and 6000 
+mg/L, respectively. Normally, FWs have 
+an optimum C/N ratio in the range of 
+30:1-40:1 (total carbon) and 25:1-30:1 
+(biodegradable carbon) (Kayhanian and 
+Tchobanoglous 1993). However, in 
+some instances the C/N ratio of FW may 
+be below 20. In such cases, rich carbon 
+sources (such as glucose) (Hills 1979), 
+cellulosic waste (such as grass, cereals, 
+straws, and other crop residues) (Fraser 
+1977), or mixed paper (C/N ratio of 
+100:1-173:1) (Yen and Brune 2007) 
+may be added to achieve optimum conditions 
+for the AD process. However, 
+the addition of paper has to be made 
+very carefully taking into consideration 
+the manufacturing procedure of the paper 
+to be added, because there are certain 
+types of papers that are treated with 
+additives for improving the bleaching 
+process and the addition of these types 
+of papers may lead to the release of certain 
+chlorinated compounds, which are 
+one of the principal inhibitors of microbial 
+activity. The optimum COD/N 
+range for efficient microbial activity, involving 
+AD of OFMSW, is from 20:1 
+to 36.36:1, with 25:1 being considered 
+as the optimum (Hills 1979; Kivaisi and 
+Mtila 1998; Rao and Singh 2004; Bouallagui 
+et al. 2005; Yen and Brune 2007; 
+Guermoud et al. 2009; Khalid et al. 
+2011; El-Fadel et al. 2013). One of the 
+problems associated with high C/N ratio 
+is that the availability of nutrients will 
+be lower, because nitrogen is regarded 
+as a crucial nutrient for the 
+methanogens. On the other hand, a low 
+C/N ratio would result in increased ammonia 
+production, thereby causing ammonia 
+inhibition. 
+In an anaerobic digester, ammonia can 
+be found in two forms, namely, unionized 
+ammonia (N[H.sub.3]) or free ammonia 
+and ionized ammonia or ammonium 
+ion (N[H.sub.4.sup.+]). Between 
+these two, the N[H.sub.4.sup.+] ion may 
+inhibit the methane production directly. 
+In general, it was established that TAN 
+concentrations of around 1700-1800 
+mg/L caused anaerobic digester failure 
+(Albertson 1961; Melbinger and Don- 
+
+24
+
+
+
+nellon 1971). This was emphasized by 
+a batch study conducted in a high-solids 
+AD process, where ammonium-nitrogen 
+concentration was a more significant 
+factor than free ammonia in affecting 
+the methanogenic activity (Lay et al. 
+1998). The methanogenic activity was 
+observed to decrease with an increase 
+in N[H.sub.4.sup.+]-N over a wide pH 
+of 6.5-8.5. The methane production 
+dropped by up to 10%, at an ammonium-
+nitrogen concentration of 
+1670-3710 mg/L; 50% at 4090-5550 
+mg/L; and to zero at 5880-6000 mg/L. 
+In addition, it was observed that the lagphase 
+time in the batch experiment was 
+dependent on the ammonia level, but not 
+on the ammonium. It was further noticed 
+that, when the free ammonia-nitrogen 
+concentration was higher than 500 
+mg/L, a considerable shock appeared, 
+suggesting the free ammonia level to be 
+a more sensitive factor than the ammonium 
+level in a non-acclimatized bacterial 
+system. 
+The performance of an AD reactor is associated 
+with the structure of the microbial 
+community present within the reactor 
+(Yenigun and Demirel 2013). It was 
+reported in a study by Hobson and Shaw 
+(1976) that the growth of Methanobacterium 
+formicicum was partly inhibited 
+at a TAN concentration of 3000 mg/L, 
+and at a pH of 7.1, and it was completely 
+inhibited at 4000 mg TAN/L. A more recent 
+study by Schnurrer and Nordberg 
+(2008) reported a gradual increase in 
+ammonia concentration beyond 3000 
+mg TAN/L, resulting in a shift from the 
+acetoclastic methanogenesis to syntrophic 
+acetate oxidation during labscale 
+AD of SS-OFMSW, at an HRT 
+of 30 days. During hydrolysis, the first 
+stage of the AD process, the frmentative 
+group of hydrolyzing bacteria deaminate 
+nitrogenous compounds, proteins 
+mainly, present in the organic fraction 
+to produce ammonia. As such, a large 
+amount of ammonia is produced during 
+the hydrolysis stage, in accordance with 
+the stoichiometric relationship (Kayhanian 
+1999). It has also been established 
+that the effect of ammonia production 
+is greater on the activity of the 
+methanogens, rather than the acetogens 
+or acidogens. Even though nitrogen is 
+an essential nutrient for microbes performing 
+AD of organic wastes, and it is 
+available from ammonia (McCarty and 
+Mckinney 1961a; McCarty and Mckinney 
+1961b), the excess of ammonia may 
+inhibit the methanogenic activity. The 
+inhibition is primarily due to TAN, 
+which is a combination of free ammonia 
+nitrogen (N[H.sub.3]) and ionized ammonium 
+nitrogen (N[H.sub.4.sup.+]). 
+The TAN affects the methanogenic activity 
+in the following three ways: 
+1. The N[H.sub.4.sup.+] ions directly 
+inhibit the methane synthesizing enzyme. 
+2. The N[H.sub.3] molecules passively 
+diffuse into the cells of the 
+methanogens, owing to their hydrophobic 
+nature, causing proton imbalance 
+and potassium deficiency (Sprott and 
+Patel 1986). This is because the difference 
+in intracellular pH causes the 
+N[H.sub.3] molecules to convert into 
+N[H.sub.4.sup.+] ions by absorbing protons 
+from the cell itself. In turn, this triggers 
+balancing of protons in the cell by 
+expending energy using potassium antiporter 
+(Sprott et al. 1984). 
+3. The growth rates of hydrogen-utilizing 
+methanogens are severely affected 
+by high concentration of TAN (Wiegant 
+and Zeeman 1986). An increase in TAN 
+concentration results in the fast production 
+of acetate. 
+In the absence of [H.sub.2]-consuming 
+methanogens, intermediate compounds, 
+propionate and (or) [H.sub.2], accumulate, 
+which affects the production of 
+C[H.sub.4] from the acetate. As the 
+methanogenic activity is inhibited by 
+TAN concentration, the fatty acids produced 
+by the acidogens continue to accumulate 
+resulting in a drop in pH, 
+thereby eventually leading to digester 
+failure. The effect of ammonia molecules 
+into the cellular structure of 
+methanogens was supported by many 
+studies. In a separate experiment by 
+Sprott et al. (1985), the transport of 
+[K.sup.+] ions in M. hungatei pretreated 
+with ammonia was studied and no 
+methanogenic activity was observed. 
+However, the addition of [Ca.sup.2+] or 
+[Mg.sup.2+] once again activated the 
+methanogenic cells, enabling them to 
+make ATP and transport [K.sup.+] ions. 
+It was proposed by McCarty and McKinney 
+(1961a, 1961b) that the equilibrium 
+concentrations of free ammonia and 
+ammonium ions are dependent on pH 
+and temperature of the solution. Moreover, 
+it was also inferred that the inhibition 
+was mainly due to free ammonia in 
+solution rather ammonium ions. However, 
+in a study showing the relationship 
+between OLR and ammonia inhibition 
+by Melbinger and Donnellon (1971) 
+it was concluded that the methanogenic 
+bacteria could be acclimated to ammonium 
+ions if the feed was gradually increased. 
+As such, in those digesters, 
+TAN concentrations of up to 2700 mg/L 
+may exist without any failure. In a separate 
+study by Gallert and Winter (1997) 
+it was observed that methane production 
+was inhibited by 50% at 220-280 mg 
+N[H.sub.3]-N/L and 680-690 mg 
+N[H.sub.3]-N/L, during AD of glucose, 
+
+25
+
+
+
+under mesophilic and thermophilic conditions, 
+respectively. It was concluded 
+from the study that the thermophilic flora 
+was able to tolerate ammonia toxicity 
+twice as great as the mesophilic flora. In 
+a later study, it was pointed out that the 
+temperature increase in the thermophilic 
+range of 40-64 [degrees]C had a negative 
+effect on the AD of cattle manure 
+from 700 mg N[H.sub.3]/L onwards, inhibiting 
+methane production (Angelidaki 
+and Ahring 1994). Sung and Liu 
+(2003) observed that ammonium nitrogen 
+(N[H.sub.4.sup.+]-N) concentration 
+in the range of 8000-13 000 mg/L, inhibited 
+100% methane production, under 
+thermophilic conditions. Thus, it 
+was asserted that the AD of OFMSW at 
+a certain pH and temperature was influenced 
+by ammonia, especially free ammonia, 
+because the amount of 
+N[H.sub.3] is a function of TAN, as per 
+the following equation proposed by Anthonisen 
+et al. (1976): 
+N[H.sub.3]-N= [N[H.sub.4.sup.+] -N x 
+[10.sup.pH]] / [[e.sup.6344/ 
+273+T]+[10.sup.pH]] 
+It can be inferred from this equation that 
+with an increase in temperature and pH, 
+a higher amount of free ammonia is released. 
+Hence, under thermophilic AD it 
+is best to operate at the lowest possible 
+pH, and under mesophilic AD the increase 
+in pH may be afforded. In a study 
+carried out by El-Hadj et al. (2009) it 
+was concluded that during high solids 
+AD of OFMSW ammonia and ammonium 
+could be released at high concentrations. 
+It was also seen that there was 
+50% inhibition in methane production at 
+215 and 468 mg/L of N[H.sub.3]-N, under 
+mesophilic and thermophilic conditions. 
+Moreover, it was further observed 
+that the presence of N[H.sub.4.sup.+]- 
+N ions at 3860 and 5600 mg/L, under 
+mesophilic and thermophilic conditions, 
+respectively, inhibited methane production 
+by 50%. Under mesophilic conditions 
+the pH increase was found to negatively 
+affect the biogas generation. Cuetos 
+et al. (2008) also observed that during 
+mesophilic (34 [degrees]C) anaerobic 
+co-digestion of slaughterhouse 
+waste and OFMSW, in a CSTR, at an 
+OLR of 3.7 kg VS/[m.sup.3] per day, the 
+inhibition of methane production started 
+to occur at a TAN concentration of 
+4100 mg/L and a FAN concentration of 
+337 mg/L, under a pH of 7.5. Similar 
+results were also observed earlier, when 
+OFMSW was digested in a CSTR at 
+mesophilic and thermophilic temperatures, 
+with ammonia un-adapted inoculum 
+(Gallert and Winter 1997; Gallert 
+et al. 1998). It was noted that, at a pH 
+of 7.5, 220 mg/L of FAN caused 50% 
+inhibition in methane production, under 
+mesophilic conditions, whereas under 
+thermophilic conditions, 690 mg/L of 
+FAN caused 50% inhibition in methane 
+production. 
+However, the decrease in methane production 
+caused by ammonia inhibition 
+due to high TAN concentration can be 
+removed by lowering the pH and a subsequent 
+decrease of free ammonia concentration. 
+It was reported by Kayhanian 
+(1999) that the inhibition at TAN 
+concentrations of 1200 mg/L during pilot-
+scale thermophilic AD of OFMSW 
+was mitigated by dilution of the digester 
+content with water, or by adjusting the 
+feedstock C/N ratio, in between 30 and 
+40. In another study by Shanmugam and 
+Horan (2009) an adjustment of the C/N 
+ratio at 15 and the pH at 6.5, maintained 
+the TAN and FAN concentrations under 
+control, thereby giving the best results 
+in terms of biogas production. 
+
+
+6.9. Retention times 
+
+Retention times play a crucial role in 
+dictating the consistency and the efficiency 
+of an anaerobic digester system, 
+treating OFMSW. There are two concepts 
+of retention times in an AD system. 
+These are SRT and HRT. The SRT 
+is the average time that the biomass 
+(solids) remains in the digester. The 
+HRT is the average time that the waste 
+is retained in the digester. Studies have 
+shown that the biogas yield of a digester, 
+treating highly biodegradable organic 
+fraction, such as FW, with longer SRT 
+than HRT, is significantly greater than 
+the biogas yield of a digester, having 
+SRT almost equal to the HRT. This can 
+be attributed to the fact that a longer 
+SRT, in the case of digesters treating 
+FW, results in the regeneration of alkalinity 
+and flushing of excess VFA (Climenhaga 
+and Banks 2008b). Another 
+reason, which asserts for longer SRT 
+than HRT, is that the generation time, 
+which is the time required for a population 
+of bacteria to double in size, of 
+methanogens is relatively long (Gerardi 
+2003). Systems with high SRT are characterized 
+by biofilm or granule formation 
+inside the reactor, or biomass settling 
+outside the reactor (Angenent et 
+al. 2004). Such systems with high SRT 
+maximize removal capacity, reduce reactor 
+volume, and provide buffering capacity 
+for protection against the effects 
+of shock loadings and toxic compounds 
+present in the OFMSW. Longer SRTs 
+can be achieved by biomass immobilization 
+and retention technique, multistage 
+(two- or three-stage) AD systems, 
+long stagnant periods, followed by liquid 
+wastage for CSTR systems, and by 
+collection of the effluent from the top, 
+with minor removal of solids from the 
+bottom. 
+
+
+6.10. Sorting techniques 
+
+26
+
+
+
+Even though the major fraction of the 
+generated MSW comprises organic matter, 
+there are other recyclable fractions, 
+such as plastics, mixed paper, cardboard, 
+iron and aluminum scrap, glass 
+and inert, textiles, etc., which necessitate 
+the application of various separation 
+techniques. This is because the recyclable 
+fractions, other than the organic 
+matter, are not only valuable for sustaining 
+the recycling industries, but their 
+proper separation from the commingled 
+MSW ensures better biodegradability of 
+the OFMSW and also helps to economize 
+the overall separation process. In 
+Europe, with the introduction of S and 
+MS techniques, the AD of OFMSW has 
+received a considerable boost in the last 
+two decades (Dong et al. 2010). The SS 
+technique, as the name suggests, can be 
+defined as a mechanism of procuring the 
+biodegradable fraction of the MSW directly 
+from the source, whereas the mechanical 
+sorting technique relies on the 
+assistance of certain machines to procure 
+the organic feedstock from the 
+MSW. 
+The biodegradability of OFMSW is one 
+of the crucial components in controlling 
+the AD rate and the application of SS 
+(Angelidaki et al. 2006; Davidsson et 
+al. 2007; Forster-Carneiro et al. 2007, 
+2008a; Hartmann and Ahring 2005; 
+Ghanimeh et al. 2012; Pognani et al. 
+2012) and MS (Bolzonella et al. 2003, 
+2006; Forster-Carneiro et al. 2008b; 
+Fantozzi and Buratti 2011) techniques, 
+while procuring OFMSW have massively 
+contributed to the cause of high 
+biodegradability. In a study by Davidsson 
+et al. (2007) the contribution of 
+source-sorting in the procurement of 
+highly BOFMSW was emphasized. It 
+was observed from the study that the 
+thermophilic pilot scale digestion of 17 
+types of domestically SS-OFMSW originating 
+from seven full-scale sorting 
+systems had given a VS-degradation 
+rate of around 80%, with a methane 
+yield of 300-400 N[m.sup.3] 
+C[H.sub.4]/ton [VS.sub.in] achieved, 
+for a retention time of 15 days. Similarly, 
+Forster-Carneiro et al. (2008b) analyzed 
+the performances of two lab-scale 
+(5.0 L) reactors anaerobically treating 
+SS-OFMSW (obtained from a university 
+restaurant) and MS-OFMSW (obtained 
+from a municipal treatment plant 
+located in Cadiz, Spain). It was observed 
+that, under thermophilic conditions 
+(55 [degrees]C) and at TS content 
+of 20%, the SS-OFMSW exhibited the 
+classical waste decomposition pattern 
+with a fast start-up phase beginning 
+within 0-5 days, an acclimation stage 
+between days 5 and 30, and a subsequent 
+stabilization phase. In case of the 
+MS-OFMSW, a methanogenic pattern 
+throughout the whole experimental period 
+was observed. The VS removal in the 
+case of the SS-OFMSW was 45% with 
+a cumulative gas production of 120.0 L, 
+whereas in the case of the MS-OFMSW, 
+a higher VS removal rate of 56% was 
+observed, with cumulative biogas production 
+of 82.0 L. 
+Apart from the SS and MS techniques, 
+there is also another sorting technique 
+that can be applied while procuring organic 
+fractions of MSW and that is the 
+water-sorting (WS) technique (Dong et 
+al. 2010). The WS technique can be defined 
+as a sorting technique that relies 
+on the buoyant and sink forces of water 
+for the separation of the biodegradable 
+fractions of the MSW. The commingled 
+MSW comprises biodegradable fractions, 
+metals, heavy metals, plastics, and 
+combustible fractions. The WS-OFMSW 
+is the biodegradable fraction, which 
+is a mixture of kitchen waste, FVW, garden 
+waste, waste paper, etc. In a study 
+conducted by Dong et al. (2010), it was 
+observed that the biodegradability of the 
+WS-OFMSW, with VS/TS of 61.6%, 
+was superior to the MS-OFMSW but 
+poorer than the SS-OFMSW. This can 
+be attributed to the fact that a major 
+fraction of the WS-OFMSW comprises 
+carbohydrates followed by proteins and 
+lipids, even though the C/N ratio of the 
+WS-OFMSW feedstock is similar to 
+MS-OFMSW. The superiority of the SSOFMSW 
+is attributed to its high average 
+organic content of 77.7% (in terms of 
+VS) in comparison to MS-OFMSW, 
+which has an average organic content 
+of 43.0% (in terms of VS). SS-OFMSW 
+mostly comprises FVW, whereas MSOFMSW 
+comprises not only organic 
+matter but a large amount of inorganic 
+material, mainly from soil or sand and 
+small inorganic material (Forster- 
+Carneiro et al. 2008b). This was further 
+asserted in a study by Bolzonella et al. 
+(2006) where it was shown that AD of 
+SS-OFMSW gave a SBP of up to 200 
+[m.sup.3]/ton of treated waste, with a 
+SMP of some 0.4 [m.sup.3] 
+C[H.sub.4]/kg [VS.sub.feed]. On the 
+contrary, the AD of a combination of 
+MS-OFMSW (35%), grey fraction of 
+MSW (50%), and sewage sludge (15%) 
+gave a SBP of up to 60 [m.sup.3]/ton of 
+waste treated, with a SMP of some 0.13 
+[m.sup.3] C[H.sub.4]/kg [VS.sub.feed]. 
+However, the VS removal was superior 
+in the latter case (40%-45%) compared 
+to the AD of SS-OFMSW, where the VS 
+removal was 35%-40%. 
+
+
+7. Process design aspect of AD of OFMSW 
+
+The rapid development in the various 
+facets of AD, involving stabilization of 
+OFMSW, saw many scientists and researchers 
+come up with several kinetic 
+expressions. Those kinetic formulations 
+
+27
+
+
+
+were obtained upon conducting various 
+pilot-scale and lab-scale studies. 
+Mata-Alvarez et al. (1990, 1992) upon 
+conducting two experimental studies established 
+that a first-order kinetic model 
+was relevant in determining the methane 
+yield pertaining to AD of OFMSW. In 
+1990, the first experimental study dealing 
+with the performance evaluation of 
+anaerobic digesters treating differently 
+sorted OFMSW showed a kinetic constant 
+(k) of 2.95 [day.sup.-1], for SSOFMSW. 
+On the other hand, a kinetic 
+constant (k) of 0.410 [day.sup.-1] was 
+observed for MS-OFMSW. The second 
+experiment in 1992 resulted in a k-value 
+of 3.1 [day.sup.-1], for SS-OFMSW. A 
+bench-scale study was performed on AD 
+of OFMSW under co-digestion with primary 
+sewage sludge and consequently, 
+a two-stage mathematical model of acidogenesis 
+and methanogenesis was developed 
+and validated. It was observed 
+that anaerobic co-digestion of OFMSW 
+with dewatered sewage sludge, primary 
+sewage sludge and several other pure 
+organic co-substrates, such as vegetable 
+oil, animal fat, cellulose and protein, 
+had a significant impact on the rate of 
+methane production (Kiely et al. 1997). 
+The said model was coded to simulate 
+observed pH, N[H.sub.3], and 
+C[H.sub.4] production also from the experimental 
+work. 
+In a separate study, Mora-Naranjo et al. 
+(2004) characterized a structured model 
+based on the considerations of coupled 
+reaction processes and interactions between 
+relevant microorganism populations. 
+Liu et al. (2008) predicted the 
+methane yield at an optimum pH, and 
+later on developed a mathematical model 
+that simulated the optimal pH of an 
+anaerobic batch digestion process, treating 
+OFMSW, under varying temperatures. 
+The model was developed on the 
+basis of the microbial growth kinetics 
+and was divided into three types of kinetics, 
+pertaining to hydrolysis, acidification, 
+and methanogenesis, respectively. 
+Monod-type kinetics was used to develop 
+the growth of anaerobic microbes, 
+whereas the consumption of substrates 
+and acids as well as the biomass decay 
+were described by first-order reactions. 
+In another instance, the maximum specific 
+growth rate, [[micro].sub.max], of 
+the anaerobic mixed culture was estimated 
+with the help of an autocatalytic 
+kinetic model developed by Fernandez 
+et al. (2010). They conducted AD of 
+OFMSW at mesophilic temperatures, 
+under different initial substrate concentrations. 
+A kinetic model was developed 
+from this study, which established that 
+the reactor with low TS concentration 
+showed a greater [[micro].sub.max] for 
+the microbes responsible for the 
+biodegradation process, and also the 
+yield coefficient for methane generation 
+was higher. In fact, the experimental results, 
+demonstrated by Rao and Singh 
+(2004) were very much akin to that 
+shown by Fernandez et al. (2010) in 
+terms of a high TS concentration. In the 
+latter experiment, anaerobic batch digestion 
+of municipal garbage at different 
+temperatures and OLRs was conducted, 
+and the process kinetics was developed 
+using a first-order model, based on the 
+limiting substrate condition. 
+Fdez.-Guelfo et al. (2011d) conducted 
+an experimental study on dry-thermophilic 
+AD and used the substrate consumption 
+model as proposed by Romero 
+Garcia (1991) for determining respective 
+kinetic parameters. Out of various 
+key operational parameters, SRT was 
+varied in the range of 8-40 days, to determine 
+its effect on methane yield. 
+Consequently, the process kinetics was 
+studied and the maximum specific 
+growth rate of the micro-organisms was 
+obtained as 0.580 [day.sup.-1]. The 
+degradation of the VS by AD was observed 
+to follow a first-order reaction 
+kinetics. In another instance, Bollon et 
+al. (2011) developed a kinetic model resembling 
+dry AD of OFMSW and assessed 
+the degradation of acetate. The 
+acetate uptake rate and the half-saturation 
+constant were found to be satisfactorily 
+high at a moisture content of 65%, 
+compared to that of 82%. In fact, the 
+methane production was evidently high 
+at high solid and low moisture content 
+in congruence with the validated model. 
+Particle size and organic content of 
+OFMSW also had a pivotal impact in 
+the overall kinetics of dry AD of OFMSW, 
+at 30% TS concentration and under 
+thermophilic conditions, as reported by 
+Fdez.-Guelfo et al. (2012a). A modified 
+mathematical expression based on the 
+widely validated product-generation kinetic 
+model (Romero Garcia 1991) was 
+proposed while conducting the aforesaid 
+experiment, in a semi-continuous stirred 
+tank reactor. The different kinetic models, 
+as proposed by various researchers, 
+available for AD of OFMSW are shown 
+in Fig. 5. 
+Increased dependencies on fossil-derived 
+fuels and energy insecurity, due to 
+political instability in major oil exporting 
+countries, have led to growing global 
+environmental concerns. The burning 
+of fossil-fuel leads to a harmful effect 
+on the atmosphere and global climate 
+by the emission of pollutants, such as 
+[CO.sub.x], [NO.sub.x], [SO.sub.x], 
+[C.sub.x][H.sub.x], soot, ash, droplets 
+of tars, and other organic compounds. 
+Under these circumstances, there has 
+been a renewed interest in biological hydrogen 
+production, because it produces 
+water when combusted as a fuel or con- 
+
+28
+
+
+
+verted to electricity. Hydrogen, as a sustainable 
+and clean energy source, is a 
+promising alternative to fossil fuel with 
+minimal or zero use of hydrocarbons. 
+It makes up about three-quarters of all 
+organic matter. Different substrates, including 
+OFMSW, have been reported to 
+favor hydrogen production (Okamoto et 
+al. 2000). The evolution of photosynthetic 
+hydrogen from MSW was worked 
+out by Fascetti and Todini (1995). It was 
+observed from the batch and continuous 
+experiments that the acidic aqueous 
+stream obtained from such refuse was 
+a good substrate for the growth of 
+Khodobacter spaeroides RV. It was also 
+observed that substrate from the acidogenesis 
+of FVW gave higher hydrogen 
+evolution rate, as compared to synthetic 
+medium (100 versus 35 mL [H.sub.2]/g 
+dry weight h). According to Hallenbeck 
+and Benemann (2002) there are predominantly 
+three microbial groups that are 
+responsible for producing hydrogen. 
+These are cyanobacteria, which are autotrophs 
+and directly decompose water 
+into hydrogen and oxygen in the presence 
+of light energy by photosynthesis, 
+and heterotrophs, which use organic 
+substrates for hydrogen production. The 
+heterotrophic microbes are responsible 
+for producing hydrogen, under anaerobic 
+conditions, either in the presence or 
+in the absence of light energy. Accordingly, 
+the anaerobic process of hydrogen 
+production may be of two types: (i) photo-
+fermentation, and (ii) dark-fermentation. 
+Photo-fermentation can be defined 
+as the production of hydrogen carried 
+out in presence of light by photo-synthetic 
+purple non-sulfur bacteria, whereas 
+dark-fermentation is the production 
+of hydrogen carried out in the absence 
+of light by fermentative bacteria, primarily 
+Clostridia. 
+Chen et al. (2006) studied the growth 
+kinetics of hydrogen in dark fermentation 
+using various substrates including 
+OFMSW, through a series of batch experiments. 
+The modified Gompertz 
+equation was applied to determine the 
+hydrogen production potential (H), hydrogen 
+production rate (R), and lag 
+phase (A). As such, the hydrogen production 
+was well correlated to the modified 
+Gompertz equation ([R.sup.2] > 
+0.98). The hydrogen yield and the specific 
+hydrogen production rates were 
+calculated from H and added substrate, 
+as well as from R and biomass concentration, 
+respectively. The bio-hydrogen 
+production efficiency was found to be 
+highly related to the optimal control of 
+substrate to biomass (S/X) ratio. It was 
+observed that at a substrate (FW as 
+OFMSW) concentration of 4600 mg 
+COD/L, the hydrogen yield was maximized 
+with 101 mL/g COD. The corresponding 
+hydrogen production potential 
+(H), hydrogen production rate (R), lag 
+phase ([lambda]), and specific hydrogen 
+production rate were 69 mL, 12.1 mL/ 
+h, 4 h, and 139 mL/g VSS h, respectively, 
+with [R.sup.2] being 0.9991. Similarly, 
+the maximum specific hydrogen 
+production rate was reached (286 mL/ 
+g VSS h) at a substrate concentration 
+of 32300 mg COD/L with H, R, [lambda], 
+and hydrogen yield being 178 mL, 
+25.0 mL/h, 3 h, and 37 mL/g COD, respectively, 
+with [R.sup.2] being 0.9981. 
+The growth kinetics of hydrogen-producing 
+bacteria for OFMSW (FW) was 
+also studied using the Michaelis-Menten 
+equation, where the dependence of hydrogen 
+production rate (R) on substrate 
+concentration was shown. The half-saturation 
+constant ([K.sub.S]) and the 
+[R.sub.max] obtained were 8700 mg 
+COD/L and 29.9 mL/h, respectively. 
+However, the specific growth rate ([micro]), 
+being 0.568 [h.sup.-1], was observed 
+to be maximized in the case of 
+glucose as test substrate, at a temperature 
+of 37 [degrees]C with Enterobacter 
+cloacae (Kumar et al. 2000). 
+The production of fermentative hydrogen 
+from organic substrates proceeds simultaneously 
+with the growth of hydrogen 
+producing bacteria (HPB) and certain 
+soluble metabolites. Various kinetic 
+models, such as the modified Gompertz 
+model, have been proposed to describe 
+the substrate degradation, HPB growth, 
+hydrogen production, and some soluble 
+metabolite formation in a batch fermentative 
+hydrogen production process. 
+These models allow the prediction of 
+substrate degradation, HPB growth, hydrogen 
+production, and some soluble 
+metabolite formation at a given time in 
+a batch fermentative hydrogen production 
+process. As such, Zwietering et al. 
+(1990) developed the modified Gompertz 
+model, which has been widely 
+used to describe the progress of substrate 
+degradation, HPB growth, hydrogen 
+production, and some soluble 
+metabolite production in a batch fermentative 
+hydrogen production process. 
+It was observed that the cumulative substrate 
+degradation (H) increased very 
+slowly with increasing cultivation time 
+from 0 to [lambda] (lag time) and then 
+rapidly increased at the rate of 
+[R.sub.max] (maximum rate), finally 
+reaching an asymptotic value 
+[H.sub.max] (maximum cumulative value) 
+with further increase in the cultivation 
+time. In a separate study by Wang 
+and Wan (2008b) the progress of hydrogen 
+production in batch tests using 
+glucose as substrate was determined using 
+the modified logistic model, which 
+is very similar to the modified Gompertz 
+model. A similar model was used by 
+Nathoa et al. (2014) to describe the cumulative 
+hydrogen production, the max- 
+
+29
+
+
+
+imum production rate, and the lag phase 
+duration during two-phase anaerobic 
+fermentation of banana peels. This modified 
+logistic model was previously used 
+by Mu et al. (2006, 2007) to describe 
+the progress of HPB growth in batch 
+tests. Furthermore, it was also inferred 
+by the same team (Mu et al. 2007) that 
+the modified Gompertz model was the 
+most suitable model, after comparing 
+the ability of the modified Gompertz 
+model, modified logistic model, and 
+modified Richards model to describe the 
+progress of HPB growth in batch tests. It 
+was inferred from these studies that the 
+modified Gompertz model was a near 
+omnipotent model, in terms of describing 
+the progress of substrate degradation, 
+HPB growth, hydrogen production, 
+and some soluble metabolite production 
+in a batch fermentative hydrogen production 
+process. It was also concluded 
+that the modified logistic model, which 
+has a similar property as the modified 
+Gompertz model, can also be used to describe 
+the progress of a batch fermentative 
+hydrogen production process (Wang 
+and Wan 2009b). 
+For the production of fermentative hydrogen 
+any substrate source containing 
+carbohydrate is considered very important, 
+because carbohydrates provide carbon 
+and energy sources for HPB. In a 
+study by Lay et al. (2003) it was concluded 
+that HPB were more effective in 
+producing hydrogen from carbohydraterich 
+substrates. Various kinetic models 
+have been proposed to describe the effects 
+of substrate concentrations on the 
+substrate degradation rate, HPB growth, 
+and hydrogen production. The classical 
+Monod model (or the Michaelis-Menten 
+model) is one of them, which shows that 
+the rate (R) increases with the increase 
+in substrate concentration, finally reaching 
+an asymptotic value [R.sub.max]. In 
+addition, it also suggests that at lower 
+substrate concentration (relative to the 
+half-saturation constant, [K.sub.s]), R is 
+approximately proportional to the substrate 
+concentration (first order in substrate 
+concentration), while at higher 
+substrate concentration, R is independent 
+of the substrate concentration (zero 
+order in substrate concentration). However, 
+in the case of inhibition of the fermentative 
+hydrogen produced from the 
+substrate at much higher concentrations, 
+the classical Monod model becomes unsatisfactory 
+and the modified Monod 
+model, such as the Andrew model, becomes 
+appropriate to describe the effects 
+of substrate concentrations on the 
+hydrogen production rate and specific 
+HPB growth rate (Wang and Wan 
+2009a). 
+Kumar et al. (2000) used a modified Andrew 
+model to describe the effects of 
+substrate concentrations on specific E. 
+cloacae IIT-BT 08 growth rate, in batch 
+tests. Aguilar et al. (2013) applied a 
+model based on acidogenic substrate as 
+carbon, to study the effect of HRT on 
+hydrogen production and organic matter 
+solubilization in acidogenic AD of 
+OFMSW. Acidogenic substrate as carbon 
+can be defined as the fraction of 
+solubilized organic matter that has not 
+been transformed into VFA and, therefore, 
+may be used to study the behavior 
+of the hydrolytic and acidogenesis phases 
+(Fdez.-Guelfo et al. 2012b). It was inferred 
+that high acidogenic substrate as 
+carbon concentration results in the transformation 
+of high VFA from the higher 
+amounts of solubilized organic matter 
+during the acidogenesis step, eventually 
+leading to higher [H.sub.2] production. 
+The model was developed using classical 
+parameters, such as organic carbon 
+concentration measured by total organic 
+carbon analyzer, each individual VFA 
+concentration measured by gas chromatography, 
+number of carbons of each 
+VFA and the molecular weight of each 
+VFA. 
+In addition to the models discussed earlier, 
+there are other kinetic models that 
+describe the effect of inhibitor concentrations 
+on hydrogen production, the effect 
+of temperatures on hydrogen production, 
+the effects of pH on fermentative 
+hydrogen production, the effect of 
+dilution rates on hydrogen production, 
+and the relationship among the substrate 
+degradation rate, HPB growth, and 
+product formation. For instance, the 
+modified Han-Levenspiel model has 
+been widely used to describe the effect 
+of inhibitor concentrations on hydrogen 
+production (Wang et al. 2008; Liu et al. 
+2006; van Niel et al. 2003). Similarly, 
+the Arrhenius model and the Ratkowsky 
+model best describe the effect of temperatures 
+on hydrogen production 
+(Wang andWan 2008a, 2009b). The Andrew 
+model (Wang and Wan 2009a; 
+Fabiano and Perego 2002) and the 
+Ratkowsky model best describe the effects 
+of pH on the rates of fermentative 
+hydrogen production, substrate degradation, 
+HPB growth, and some soluble 
+metabolite production. The effects of the 
+dilution rate on hydrogen production are 
+best described by the single-substrate 
+model without biomass decay, the single-
+substrate model with biomass decay, 
+and the dual-substrate model with biomass 
+decay (Chen et al. 2001; Whang 
+et al. 2006). The Luedeking-Piret model 
+and its modified form have been used 
+to describe the relationship between the 
+growth rate of various HPB cultures, 
+such as C. saccharolyticus and Thermotoga 
+elfii (van Niel et al. 2002), and 
+product formation rate. In addition, it 
+has also been used by Mu et al. (2006) 
+to describe the relationship between the 
+
+30
+
+
+
+rate of substrate degradation and the 
+rates of hydrogen production, acetate 
+production, and butyrate production.
+
+ 
+8. Past experiences of AD of OFMSW 
+
+With the rapid development of societies, 
+the solid waste generation rate per capita 
+is also increasing and consequently becoming 
+a matter of universal concern 
+to all developing countries. From disruption 
+of environmental sustainability 
+to uncontrolled litter, which is a cause 
+of visual resentment among society 
+dwellers, this uncontrolled increase in 
+solid waste generation rate has led to 
+the exacerbation of various ecological 
+problems. The rapid enhancement in the 
+process of AD of OFMSW is mainly attributed 
+to several successful lab-scale 
+studies conducted by various researchers 
+over the last two decades. 
+Kayhanian and Rich (1995) emphasized 
+the requirement of organic-rich nutrients, 
+such as wastewater treatment plant 
+sludges, dairy manure, and synthetic 
+chemical solutions, in AD of OFMSW. 
+Upon conducting a high-solids lab-scale 
+AD of OFMSW combined with the 
+aforesaid nutrients in four different digesters, 
+under mesophilic temperature 
+range, at a mean OLR of 7.8 g/kg active 
+reactor mass/day and with a mass retention 
+time (mass retention time can 
+be defined as the active reactor mass 
+divided by the total wet mass that is 
+fed each day) of 25 days, stable performance 
+was reported along with improved 
+gas production. However, it was 
+observed that the reactor treating OFMSW 
+with wastewater treatment plant 
+sludge and dairy manure, as a nutrient 
+supplement, exhibited the most effective 
+results. 
+Rao and Singh (2004) conducted batch 
+digestions of municipal garbage for 100 
+days at room temperature (26 [+ or -] 4 
+[degrees]C; average temperature 25 [degrees]
+C) and at ambient temperature (32 
+[+ or -] 10 [degrees]C; average temperature 
+29 [degrees]C) conditions, at TS 
+concentrations varying from 45 to 135 
+g/L to study the effect of organic solids 
+concentration and digestion time on biogas 
+yield. The said team also observed 
+the net bio-energy yield from municipal 
+garbage and corresponding bioprocess 
+conversion efficiency, over the span of 
+the digestion time as 12 528 kJ/kg VS 
+and 84.51%, respectively. It was concluded 
+that the digesters should preferably 
+be run at 67.5 g TS/L under ambient 
+temperature, with a digestion time 
+close to 60 days for optimum energy 
+yield. Hartmann and Ahring (2005) investigated 
+AD of OFMSW using two 
+4.5 L lab-scale reactors, reactor 1 and 
+reactor 2, with an active volume of 3.0 
+L, operated under thermophilic conditions 
+(55 [degrees]C). Initially OFMSW 
+was co-digested with manure, with a 
+successively increasing concentration of 
+OFMSW, at a HRT of 14-18 days, with 
+an OLR of 3.3-4.0 g VS/L per day until 
+the adaptation of the co-digestion 
+process was established. Gradually, over 
+a period of 8 weeks, the ratio of OFMSW 
+to manure was slowly increased to 
+100% in reactor 1, in addition to recirculating 
+the process liquid. In reactor 2 
+the co-digestion ratio was maintained as 
+50% (V/V). Both the reactors showed 
+stable operation with significant gas 
+production. 
+Forster-Carneiro et al. (2007) investigated 
+the effect of inoculum source on thermophilic 
+AD of separately collected 
+OFMSW, by analyzing the performance 
+of laboratory-scale reactors (volume of 
+1.1 L), using six different inoculums 
+sources: (i) corn silage; (ii) restaurant 
+waste digested mixed with rice hulls; 
+(iii) cattle excrement; (iv) swine excrement 
+(SWINE); (v) digested sludge 
+(SLUDGE); and (vi) SWINE mixed 
+with SLUDGE (1:1) (SWINE/ 
+SLUDGE). These wastes were subjected 
+to AD with the operating conditions, 
+such as 25% inoculum, 30% TS, and 55 
+[degrees]C temperature. The SLUDGE 
+was reported to be the best inoculum 
+for thermophilic AD of OFMSW, in respect 
+of methane yield (L C[H.sub.4]/g 
+VS), followed by SWINE/SLUDGE and 
+SWINE, against an operating period of 
+60 days. In a separate study, Forster- 
+Carneiro et al. (2008b) again highlighted 
+the influence of sorting technique 
+during AD of OFMSW, operated under 
+batch mode in thermophilic range and 
+dry (20% TS) condition. Two lab-scale 
+reactors (5.0 L each) were used for treating 
+the SS-OFMSW, obtained from a 
+university restaurant and MS-OFMSW, 
+obtained from a municipal treatment 
+plant located in Cadiz, Spain. The results 
+showed that the reactor treating 
+SS-OFMSW had a cumulative biogas 
+production of 120 L, in approximately 
+60 days and the other reactor treating 
+MS-OFMSW had a comparatively lower 
+biogas yield of 82 L, in 60 days, 
+thereby inferring the superiority of the 
+source sorting technique in terms of biogas 
+yield. 
+Fernandez et al. (2008) investigated the 
+influence of TS contents during 
+mesophilic AD of OFMSW, using labscale 
+batch reactors of 1.7 L capacity, 
+during a period of 85-95 days. The two 
+reactors were operated under two different 
+OLR of 931.1 mg DOC/L (20% 
+TS) and 1423.4 mg DOC/L (30% TS) 
+and the observed results indicated that 
+the reactor with low OLR had a superior 
+methane production at the end of 
+methanogenic phase. Alvarez and Liden 
+(2008) made a lab-scale study of the po- 
+
+31
+
+
+
+tential of semi-continuous mesophilic 
+AD for the treatment of solid slaughterhouse 
+waste, FVWs, and manure in a 
+co-digestion process. The OLR was examined 
+initially, and it was found that 
+OLR in the range of 0.3-1.3 
+kgVS[m.sup.-3][day.sup.-1] resulted in 
+a stable performance with a methane 
+yield of 0.3 [m.sup.3][kg.sup.-1] VS 
+added and methane content of 54%-56% 
+in the biogas. Subsequently, with the 
+gradual increase in the OLR the 
+methane productivity decreased, indicating 
+organic overload or insufficient 
+buffering capacity in the digester. In another 
+study, Forster-Carneiro et al. 
+(2008b) analyzed the bio-methanization 
+process of FW from a university campus 
+restaurant, in six reactors, with three different 
+TS percentages (20%, 25%, and 
+30% TS) and two different inoculum 
+percentages (20%-30% of mesophilic 
+sludge), initially using a lab-reactor with 
+volume 1100 mL. After validation of the 
+operational parameters, another labscale 
+batch reactor, with volume 5 L, 
+was employed. The observed results 
+showed best performance with respect 
+to methane generation for the reactor 
+with 20% of TS and 30% of inoculum 
+under an acclimation period between 20 
+and 60 days for acidogenic/acetogenic 
+activity. It was inferred that an enhancement 
+of the start-up phase for dry thermophilic 
+anaerobic digester treating organic 
+FW was essential. 
+Cuetos et al. (2008) also investigated 
+anaerobic co-digestion of OFMSW with 
+slaughterhouse waste in a laboratory 
+plant, operated under semi-continuous 
+mode and mesophilic temperatures. The 
+study showed that AD was a suitable 
+technology for efficiently treating lipid 
+and protein waste. An HRT of 50 days 
+and an OLR of 0.9 
+kgVS[m.sup.-3][day.sup.-1] was found 
+essential for the efficient start-up and 
+sludge acclimation. Consequently, the 
+HRT and OLR were adjusted to 25 days 
+and 1.70 and 3.70 
+kgVS[m.sup.-3][day.sup.-1], respectively, 
+in steps, and stable operation with 
+83% fat removal was reported, in addition 
+to undetectable traces of VFAs and 
+long chain fatty acids. A comparative 
+study for finding out the effect of atmospheric 
+pressure on the performance 
+of AD of OFMSW was made by Jiang 
+et al. (2010) using two lab-scale reactors, 
+treating OFMSW under two different 
+pressures: 101 and 65.8 kPa. The 
+process performance was evaluated on 
+the basis of gas production, gas composition, 
+VS degradation, pH, alkalinity, 
+VFAs, and ammonia concentration, under 
+varying OLR. It was observed that 
+pressure had an obvious effect on the 
+gas production rate, because the high 
+pressurized system produced more biogas 
+than the lower one. However, at a 
+low HRT, pressure had no obvious effect 
+on the gas production rate. Thus, the 
+study revealed the feasibility of AD of 
+OFMSW in high altitude areas, where 
+there is a comparatively low atmospheric 
+pressure. Fdez.-Guelfo et al. (2011c) 
+carried out a labscale study of the stabilization 
+of industrial OFMSW using 
+semi-continuous completely mixed reactor 
+and inferred that the biogas and 
+methane production considerably increased, 
+in the case of biological pretreatment 
+with mature compost. 
+Apart from lab-scale studies, several pilot-
+scale studies were also carried out 
+for the development of AD of OFMSW. 
+Bolzonella et al. (2003) conducted a pilot-
+scale study on the simulation of the 
+start-up phase of the thermophilic semidry 
+AD of OFMSW, to aid and shorten 
+the start-up phase. MS-OFMSW enriched 
+with the putrescent fraction from 
+the SS-OFMSW was used in this experiment, 
+with a view to simulate the 
+substrate, which was dealt with in the 
+original plant. The results showed a specific 
+gas production of 0.23 
+[m.sup.3]/kg[TVS.sub.feed], and a gas 
+production rate of 2.1 
+[m.sup.3]/[m.sup.3]d, when operated at 
+a specific OLR of 0.135 kg 
+[TVS.sub.feed]/kg [TVS.sub.reactor] 
+day. Fernandez et al. (2005) studied 
+anaerobic co-digestion of fats of different 
+origin (animal fat, vegetable fat) 
+with OFMSW in a pilot plant, operated 
+under semi-continuous mode, in the 
+mesophilic range (37 [degrees]C) and 
+with an HRT of 17 days. They observed 
+that the biogas and methane yield after 
+substituting the simulated OFMSW, 
+which was used for starting up of the digester, 
+with animal fats and subsequently 
+with vegetable fats were appreciably 
+similar to those of the simulated OFMSW. 
+This was attributed to the fact that 
+both the animal fat and the vegetable 
+fat were similar to that of the simulated 
+OFMSW, in relation to the long-chain 
+fatty acid profile. Davidsson et al. 
+(2007) studied the effect of sorting and 
+collection systems on the amount of 
+methane produced, by conducting thermophilic 
+pilot-scale AD of 17 types of 
+domestically SS-OFMSW. Each type of 
+waste was identified by its origin and 
+by pre-sorting, collection, and pre-treatment 
+methods. The results reported a 
+VS degradation rate of around 80%, and 
+a methane yield of 300-400 N[m.sup.3] 
+C[H.sub.4]/ton [VS.sub.in], with a retention 
+time of 15 days. 
+Subsequently, Nopharatana et al. (2007) 
+conducted a series of batch experiments 
+on AD, whereby the soluble and insoluble 
+fractions, and unwashed MSW were 
+separately digested in a 220 L stirred 
+stainless steel vessel, at a pH of 7.2, un- 
+
+32
+
+
+
+der mesophilic temperature regime (38 
+[degrees]C). It was found that 7% of 
+the total COD arising out of MSW was 
+readily soluble, of which 80% was converted 
+to biogas, and 50% of the insoluble 
+fraction was solubilized. Kim et al. 
+(2008) established the practical feasibility 
+of a three-stage fermentation system, 
+on a commercial level to treat OFMSW, 
+thereby contributing to the cause of effective 
+disposal and volumetric stabilization 
+of the same. A volumetric scaleup 
+of this system was designed and built 
+on a pilot-scale, providing a total digester 
+volume of 10 [m.sup.3]. The results 
+from the pilot-scale experiments 
+were compared with those from the 
+bench-scale study, utilizing a total digester 
+volume of 0.4 [m.sup.3], prior to 
+field scale-up. The total COD reduction 
+was reported to be 90.6% and the maximum 
+methane content in the produced 
+biogas was reported to be an impressive 
+72%, for the bench-scale system. On the 
+other hand, the field pilot-scale system 
+showed COD reduction and methane 
+content as 90.1% and 68%, respectively. 
+Fdez.-Guelfo et al. (2010) also evaluated 
+the start-up and stabilization of AD 
+of OFMSW, using a bench-scale configuration 
+that consisted of a CSTR, semi-
+continuously fed with OFMSW, at 
+thermophilic temperature range and dry 
+conditions (30% TS). The operating 
+conditions (thermophilic and dry) and 
+the type of waste were adapted with the 
+help of an inoculum from a modified 
+SEBAC (sequential batch anaerobic 
+composting) system. The process was 
+started up directly at thermophilic temperature 
+regime and a significant reduction 
+in the start-up time and stabilization 
+was achieved within 110 days, in comparison 
+to 250 days for the processes reported 
+elsewhere for the same type of 
+waste and digester. 
+In a bench-scale study by Fantozzi and 
+Buratti (2011), AD and anaerobic biogasification 
+potential were tested on 
+three different samples of OFMSW 
+from waste separation, one as received 
+in original, and two obtained after mechanical 
+treatment (squeezing): OFMSW 
+slurry (liquid fraction) and OFMSW 
+(residual solid fraction). The effects of 
+inoculum and pH were investigated, and 
+it was inferred that the OFMSW slurry 
+must be diluted with inoculation, and 
+pH control in the start-up phase must be 
+ensured to have significant biogas production. 
+The effect of AD while treating 
+extruded OFMSW was also investigated 
+by Novarino and Zanetti (2012) by carrying 
+out pilot-scale tests in semi-continuous 
+conditions with a stepwise progressive 
+increase of the TS content in 
+the input material from 3% TS w/w to 
+10% TS w/w, using activated sludge as a 
+diluting agent. The reactor with 10% TS 
+content produced higher specific biogas 
+and superior VS removal, inferring 
+strong degradation. Zeshan et al. (2012) 
+studied the effect of ammonia-N accumulation 
+in dry AD of OFMSW, using 
+a pilot-scale thermophilic reactor. Biodegradable 
+feedstock, such as FW, 
+FVW, green waste, and paper waste, 
+were used to prepare two simulations 
+of C/N ratio: 27 and 32. The process 
+performance, in terms of pH, VFA, alkalinity, 
+ammonia-N, and biogas yield 
+was noted and the results showed that 
+the simulation with C/N ratio 32 had 
+about 30% less ammonia in the digestate, 
+compared to that with C/N ratio 
+27. The system was observed to perform 
+well up to OLR 7-10 kg VS/[m.sup.3]d, 
+against a retention time up to 19 days, 
+with surplus energy production of 
+50%-73%. Thereafter, Ganesh et al. 
+(2013) studied the impact of stepwise 
+increase in OLR (up to 7.5 kg 
+VS/[m.sup.3]d) on the methane production, 
+reactor performance, and solubilized 
+organic matter production, using 
+high-loaded bench-scale reactors. Specific 
+methane yield was higher at the 
+lowest OLR and vice versa. 
+Recently, in in small localities, municipal 
+towns, and cities there have been 
+various full-scale applications of AD for 
+stabilization or volume reduction of the 
+large quantum of generated solid waste, 
+and energy recovery (in the form of biogas, 
+C[H.sub.4], [H.sub.2]) from it. In 
+developing countries, especially in the 
+European Union, many anaerobic treatment 
+plants, treating OFMSW, have 
+been developed in the last decade. In 
+an overview of the state-of-the-art development 
+of AD of OFMSW, De Baere 
+and Mattheeuws (2008) outlined various 
+sets of criteria to be followed by European 
+treatment plants. It was mentioned 
+in the overview that at least 10% of organic 
+solid waste from household origin 
+was required to be treated in the plant, 
+with a minimum capacity of 3000 tons 
+per year. They also reviewed a variety 
+of considerations regarding the smooth 
+and sustainable operation of the treatment 
+plants. It was concluded that substantial 
+improvements were to be made 
+in terms optimization and pre- and posttreatment 
+of the end products. The 
+anaerobic systems used in those plants 
+were predominantly batch reactors and 
+one-, two-, or multi-stage continuously 
+fed systems, but also included plug-flow 
+reactors and three-stage continuous flow 
+reactors (Khalid et al. 2011). Those advanced 
+bio-reactor systems have significantly 
+improved the rate of reaction for 
+the treatment of the OFMSW (Bouallagui 
+et al. 2003; Mumme et al. 2010; 
+Xing et al. 2010). In addition, "co-fermentation" 
+or "co-digestion" is preferred 
+for the numerous benefits pertain- 
+
+33
+
+
+
+ing to the yields of AD of OFMSW 
+(Khalid et al. 2011). The various wastes 
+that are mixed or co-digested with the 
+municipal organic solid waste include 
+fat, oil, and grease waste from sewage 
+treatment plants (Martin-Gonzalez et al. 
+2010), FA (Lo et al. 2012), abattoir 
+wastewater (Bouallagui et al. 2009), 
+sewage sludge (Sosnowski et al. 2003), 
+and slaughterhouse waste (Cuetos et al. 
+2008). In the City of Karlsruhe, Germany, 
+AD of 7200 tons per year of separately 
+collected bio-waste at an OLR of 
+up to 8.5 kg COD [m.sup.-3][d.sup.-1], 
+proved feasible for co-digestion. Gallert 
+et al. (2003) examined the effectiveness 
+of AD, in terms of volume reduction 
+and process stability, by further increasing 
+the bio-waste to 12000 tons per year 
+at a higher OLR of 15 kgCOD 
+[m.sup.-3][d.sup.-1]. In accordance with 
+the lab-scale results, the OLR in the fullscale 
+plant was increased to 15 kgCOD 
+[m.sup.-3][d.sup.-1], and even after 7 
+months of operation, the performance of 
+the full-scale digestion plant was consistent 
+with the previously obtained laboratory 
+results. Based on the preceding literature, 
+the process conditions of a few 
+important pilot-scale operations of AD 
+of OFMSW are summarized in Table 1. 
+In addition, the effects of sorting technique 
+on gas production and volume reduction, 
+in AD of OFMSW are presented 
+in Table 2. 
+AD of OFMSW produces [H.sub.2] in 
+the acidogenesis step. Under anaerobic 
+dark conditions using a conventional 
+AD process, the production of [H.sub.2] 
+is carried out by the fermentative bacteria 
+to dispose of excess reducing equivalents 
+contained in the organics. During 
+anaerobic light conditions, photosynthetic 
+fermentative bacteria produce 
+[H.sub.2] as a by-product of activity related 
+to nitrogenase, which is a common 
+enzyme that is necessary for [N.sub.2] 
+fixation (Kim and Kim 2011). The main 
+advantages of dark fermentation include 
+a faster [H.sub.2] production rate than 
+photo-fermentation and the direct usage 
+of complex and problematic organic 
+wastes as a substrate, resulting in enhanced 
+economic viability (Kim et al. 
+2009). However, the disadvantage is 
+that it includes the incomplete decomposition 
+of substrates leading to an accumulation 
+of organic acids. This, in turn, 
+limits the [H.sub.2] yield to less than 
+20% of the theoretical maximum value 
+of 12 mol [H.sub.2]/mol glucose (D.H. 
+Kim et al. 2011). In contrast, photo-fermentation 
+allows for near-stoichiometric 
+conversion of organic acids to 
+[H.sub.2]. Thus, the overall increase in 
+the [H.sub.2] yield is possible through a 
+sequential fermentation system consisting 
+of both dark- and photo-fermentation. 
+A recent attempt of this process by 
+Liu et al. (2010) and Su et al. (2009) resulted 
+in a significant improvement of 
+the [H.sub.2] yield, approaching 4-6 
+mol [H.sub.2]/mol glucose. However, it 
+was observed from these studies that the 
+yield still represented less than 50% of 
+the theoretical maximum value, which 
+may be attributed to the fact that the 
+main organic acids, acetate and butyrate, 
+produced by dark-fermentation, were 
+not favorable substrates for the subsequent 
+photo-fermentative [H.sub.2] production. 
+This problem was eliminated 
+by a three-stage (lactate- + photo- 
+[H.sub.2] + C[H.sub.4]) fermentation 
+system developed by Kim and Kim 
+(2013), which converted FW to 
+C[H.sub.4] and [H.sub.2], with an added 
+emphasis on achieving high [H.sub.2] 
+yield. The system consisted of threestages, 
+starting with the fermentation of 
+FW to lactate, using indigenous lactic 
+acid bacteria, followed by the centrifugation 
+of the lactate fermentation effluent. 
+In the second stage, the supernatant 
+obtained after centrifugation was used 
+for [H.sub.2] production by photo-fermentation, 
+and in the third stage the 
+residue from the centrifugation was used 
+for C[H.sub.4] production by AD. It was 
+observed that 41% and 37% of the energy 
+content in the FW was converted 
+to [H.sub.2] and C[H.sub.4], respectively. 
+This was corresponding to the electrical 
+energy yield of 1146 MJ/ton FW, 
+which was 1.4 times higher than that 
+of previous two-stage dark ([H.sub.2] + 
+C[H.sub.4]) fermentation system. 
+
+
+9. Scope of energy yield from AD of OFMSW 
+
+Conserving natural resources is becoming 
+imperative with the progress of time. 
+The dependency on fossil fuels for various 
+industrial and commercial activities 
+needs to be curtailed as a part of implementation 
+of the conservation programme. 
+This will not only help in minimizing 
+the depletion of exhaustible resources, 
+thereby fostering the usage of 
+various inexhaustible resources (e.g., 
+wind energy, solar energy, tidal energy, 
+geothermal energy, hydro-electricity, 
+etc.) at a large scale, but will also mitigate 
+the various climatic changes caused 
+by the emission of GHG. According to 
+the second phase of the Kyoto Protocol 
+(2012), the industrial countries should 
+ensure reduction of GHG emissions by 
+at least 18% below the levels found in 
+1990, during the 8 year period from 
+2013 to 2020. This objective can be 
+achieved by using technologies that are 
+non-polluting, inexpensive, and are 
+based on the previously mentioned inexhaustible 
+sources of energy (Saxena et 
+al. 2009). AD of OFMSW can be considered 
+as one of the most efficient 
+modes of renewable energy generation 
+
+34
+
+
+
+in this regard. Since its inception, it has 
+become a widespread and reliable technology, 
+not only in terms of its adeptness 
+in striking a balance between generation 
+and stabilization of MSW, but also 
+in terms of biogas production. Moreover, 
+the sludge produced from AD can 
+be used as a quality fertilizer and soil 
+conditioner. Because there is no dearth 
+of MSWs, as those are generated in huge 
+proportions daily across the world, sustaining 
+this technology would not be an 
+issue if its various operational stages are 
+managed properly. 
+As the process of AD of OFMSW is becoming 
+increasingly popular worldwide, 
+different modifications are being incorporated 
+to enhance the extent of energy 
+recovery. It has been observed that the 
+important process parameters influencing 
+the rate of energy generation are 
+OLR, pH, alkalinity, particle size, total 
+(TS), temperature, pressure, moisture 
+content, VFA production, VS added, 
+and nature of the co-substrate or inoculum 
+in the case of co-digestion. Sensitive 
+methane-producing bacteria depend 
+heavily on all of the parameters as well 
+as a few others, as reported by scientists 
+and researchers since the inception of 
+AD of OFMSW. The TS concentration 
+also greatly influences the methane 
+yield. 
+Brummeler and Koster (1989) conducted 
+dry AD of OFMSW at a low TS concentration 
+and a seed/substrate solids ratio 
+of 0.08. They reported an abrupt increase 
+in the yield of methane per kilogram 
+of organic fraction when several 
+pH control chemicals were added at a 
+certain buffer/substrate solids ratio. Mata-
+Alvarez et al. (1992) performed an 
+experimental study on AD of market organic 
+wastes in central Barcelona and 
+confirmed that the production of 
+methane is higher from bio-methanization 
+of the organic fraction of the FWs 
+from a vegetable market, compared to 
+other MSWs. The FWs obtained from 
+the marketplace comprised a higher percentage 
+of biodegradable material in 
+comparison to other domestic MSW, 
+which necessarily had a significant percentage 
+of non-biodegradable components 
+(peels, bones, etc.). As mentioned 
+earlier, the nature of the organic substrate 
+has an important influence on the 
+VS removal and the DOC removal along 
+with the methane yield. Kayhanian and 
+Rich (1995), while conducting a pilotscale 
+study on high solids thermophilic 
+AD of OFMSW, emphasized the need 
+for macro- and micro-nutrients requirement 
+for robust and stable digestion, 
+along with significantly high gas production. 
+The nutritional deficiencies 
+were supplemented by the addition of 
+various nutrient-rich organic wastes (cosubstrates), 
+such as wastewater treatment 
+plant sludge, dairy manure, and 
+synthetic chemical solutions, to the substrate 
+(OFMSW), that enhanced process 
+stability and biogas yield. Stroot et al. 
+(2001) and McMahon et al. (2001) studied 
+the influence of mixing on the high 
+solids AD of OFMSW with pre-thickened 
+sewage sludge from wastewater 
+treatment plant, and both studies observed 
+that biogas production was enhanced 
+under reduced mixing condition 
+and high OLR. 
+It is a well-established fact that anaerobic 
+co-digestion of OFMSW with various 
+co-substrates has the potential to 
+significantly contribute to biogas production 
+and operational stability. For example, 
+experimental studies by Lastella 
+et al. (2002) observed enhanced biogas 
+production and its methane content 
+when co-digesting semi-solid ortho-fruit 
+waste with the recycled digested sludge, 
+under anaerobic conditions and a maximum 
+retention period. Rao and Singh 
+(2004) observed that a digestion time of 
+60 days and a TS concentration of 67.5 
+mg/L was essential for optimum biogas 
+yield, while conducting AD of municipal 
+garbage at ambient temperatures (32 
+[+ or -] 10 [degrees]C; average temperature 
+29 [degrees]C) by Rao and Singh 
+(2004). Methane productivity per kilogram 
+of COD input was also found to 
+increase by increasing the OLR during 
+the acidification step, while conducting 
+two-phase AD of a mixture of FVW in 
+two coupled anaerobic sequencing batch 
+reactors, operated at mesophilic temperature 
+(Bouallagui et al. 2004). Furthermore, 
+Hartmann and Ahring (2005) also 
+investigated anaerobic co-digestion of 
+OFMSW with manure and 100% AD of 
+OFMSW, under mesophilic conditions 
+and reported that recirculation of the 
+generated leachate from one reactor to 
+another resulted in stable reactor performance 
+with significant VS reduction 
+(while treating 100% OFMSW) as well 
+as considerable biogas yield per ton of 
+waste. Thereafter, Fernandez et al. 
+(2005) conducted pilot-scale studies of 
+anaerobic co-digestion of simulated 
+OFMSW with fats of animal and vegetable 
+origin (high lipid content) and 
+concluded that after a particular adaptation 
+period with simulated OFMSW, 
+the co-digestion with fat increases the 
+amount of biogas produced per kilogram 
+of TVS degraded. Similar results were 
+obtained by Cuetos et al. (2008) when 
+anaerobic co-digestion of slaughterhouse 
+waste and OFMSW were conducted. 
+However, they concluded that 
+for anaerobic co-digestion to happen 
+successfully at a low HRT and high 
+OLR, the inoculum needed to be acclimated 
+to a high fat and high ammonia 
+content medium for a longer HRT and 
+
+35
+
+
+
+low OLR at the start-up phase, and then 
+switching to low HRT and high OLR 
+should be followed once the digester 
+was stabilized. 
+Angelidaki et al. (2006) found that using 
+a low fresh TS content resulted in the 
+maximum methane yield and best degradation 
+rates of SS-OFMSW, after carrying 
+out anaerobic batch digestion of SSOFMSW 
+under thermophilic conditions. 
+Experimental studies on three-stage 
+methane fermentation of OFMSW by 
+Kim et al. (2006) revealed that biogas 
+and methane production rates in thermophilic 
+digesters were higher than 
+those in mesophilic digesters, irrespective 
+of HRT, even though the results indicated 
+that AD of FW yielded appreciable 
+methane under a thermophilic temperature 
+range compared to a mesophilic 
+temperature range, with a 10-day HRT. 
+It was also observed from the study that 
+liquor FW showed higher removal of 
+soluble COD under thermophilic conditions 
+with the highest removal achieved 
+at 50 [degrees]C, thereby indicating the 
+influence of temperature on the soluble 
+COD removal. Nopharatana et al. 
+(2007) conducted an experimental study 
+pertaining to batch-slurry AD, where the 
+soluble and the insoluble fractions along 
+with the unwashed MSW were digested 
+separately. This study observed that the 
+particle sizes between 2 and 50 mm did 
+not affect the rate of digestion and 
+methane yield. In addition, it was concluded 
+that the rapidity of digestion of 
+the insoluble fractions can be increased 
+by acclimatizing the culture with soluble 
+fractions having higher biodegradable 
+potentials followed by digestion of the 
+insoluble fractions. Capela et al. (2008) 
+confirmed that there was a considerable 
+increase in the methane production and 
+VS removal when the proportion of 
+OFMSW (substrate) was increased during 
+anaerobic co-digestion with industrial 
+sludge and cattle manure, under 
+mesophilic conditions. Forster-Carneiro 
+et al. (2008b) carried out thermophilic 
+AD of different organic matter like FW, 
+SS-OFMSW, and OFMSW and observed 
+that the methane yield was higher 
+for FW. They also deemed that SSOFMSW 
+was superior, in the production 
+of biogas than MS-OFMSW by analyzing 
+the performance of two lab-scale reactors 
+treating SS-OFMSW and MSOFMSW 
+under thermophilic temperatures 
+and at a constant TS concentration. 
+In a study by Fdez.-Guelfo et al. (2010) 
+it was observed that the thermophilic 
+dry AD (at 30% TS) of OFMSW resulted 
+in greater methane production than 
+wet mesophilic AD of OFMSW, at 
+5%-10% TS conditions. Dong et al. 
+(2010) observed an impaired methane 
+yield once again with low TS concentration 
+while conducting semi-dry 
+mesophilic AD of WS-OFMSW. It was 
+concluded that, in terms of methane 
+yield, WS-OFMSW remained between 
+MS-OFMSW and SS-OFMSW. At the 
+same time, Schievano et al. (2010) 
+showed that HSAD of OFMSW resulted 
+in a better yield of biogas per kilogram 
+of VS, only when the putrescibility 
+([O.sub.2] consumption in 20 h 
+biodegradation, [OD.sub.20]) of the organic 
+fraction was under a certain value. 
+Not only the nature of the waste, but 
+also pretreatment of the waste, is vital 
+in the context of greater biogas yield. 
+Fdez.-Guelfo et al. (2011c) revealed that 
+biological pretreatment of industrial 
+OFMSW with mature composts, followed 
+by dry thermophilic AD, yielded 
+the highest cumulative biogas and 
+methane production. Later on, Fantozzi 
+and Buratti (2011) conducted AD of 
+MS-OFMSW and showed that biogas 
+production was improved when the 
+OFMSW slurry was diluted and inoculated. 
+Novarino and Zanetti (2012) performed 
+the pilot-scale AD of extruded 
+OFMSW (treatment of OFMSW by exerting 
+pressure so that the undesired 
+fractions of waste get separated from the 
+organic waste) and concluded that the 
+biogas-specific production tended to enhance 
+by increasing the TS content of 
+the input material. Anaerobic co-digestion 
+of FW, FVW, and dewatered 
+sewage sludge was conducted by Liu 
+et al. (2012a) and it was reported that 
+a high biogas production rate of 4.25 
+[m.sup.3][([m.sup.3]d).sup.-1] was obtained, 
+at an OLR of 6.0 kg VS 
+[([m.sup.3]d).sup.-1]. It was also observed 
+that a total of 16.5% of lipids 
+content was beneficial to the biogas production 
+of the feedstock without causing 
+inhibition to the AD. Zhang and Banks 
+(2012) co-digested mechanically recovered 
+OFMSW with slaughterhouse 
+wastes and observed that it was useful 
+in achieving a volumetric methane productivity 
+of 1.25 STP 
+[m.sup.3][m.sup.-3][d.sup.-1], at a loading 
+rate of 4 kg VS [m.sup.-3][d.sup.-1]. 
+Zhang and Banks (2013) studied the impact 
+of different particle size distributions 
+on AD of OFMSW and it was concluded 
+that differences in the particle 
+size distribution did not change the specific 
+biogas yield; instead the digester 
+performance was affected. It was also 
+found that the SMP in the "dry" digesters 
+was slightly lower than in the 
+"wet" digesters when processing the 
+same material. Zeshan et al. (2012) studied 
+the effect of C/N ratio and ammonia- 
+N accumulation in a pilot-scale inclined 
+thermophilic dry anaerobic digester. It 
+was observed that the inclined thermophilic 
+dry anaerobic digester performed 
+better with the various OLRs 
+and produced 200-300 L C[H.sub.4]/kg 
+
+36
+
+
+
+VS. However, the free ammonia concentration 
+was found to inhibit the 
+steady-state methane production in inclined 
+thermophilic dry anaerobic digester. 
+Ganesh et al. (2013) investigated 
+the impact of stepwise increase in OLR, 
+up to 7.5 kg VS/[m.sup.3]d, on methane 
+production in a high-loading reactor. It 
+was observed that the volumetric biogas 
+and methane production increased significantly 
+with the increase in the OLR.
+
+ 
+10. Applicability of AD for management of MSW under Indian scenario 
+
+The gradual improvement in the economic 
+growth coupled with the rapid urbanization 
+has led to a high standard of 
+living, even in a developing country like 
+India. This has invariably resulted in an 
+increased rate of annual MSW generation. 
+Table 3, (status of MSW generation, 
+collection, treatment, and disposal 
+in class-I cities, CPCB 2000b) representing 
+the MSW generation rates in different 
+states in India, gives a clear idea 
+regarding the need for an efficient MSW 
+management strategy. In this context, 
+AD can not only strike a balance between 
+the generation and stabilization 
+rate of the MSW but can also cater to 
+the energy needs of a society, especially 
+in a developing country like India. It 
+is evident that in the developed countries, 
+such as those within the European 
+Union, where the per-capita generation 
+rate of MSW is much higher (in the 
+range of 1.5-2.0 kg/day), AD is a must 
+for the stabilization of the generated 
+MSW. In a developing country like India, 
+AD is also equally necessary because 
+the population is much higher and 
+the land needed for other classical management 
+strategies is decreasing day-byday. 
+Apart from that, the effectiveness 
+of AD largely depends on the physical, 
+chemical, and biological characterization 
+of the generated MSW. The selection 
+of AD over composting, sanitary 
+landfilling, and thermal incineration is 
+dictated mainly by the organic nature of 
+the MSW. The physical and chemical 
+characterizations of MSW in various Indian 
+cities are shown in Figs. 6 and 7, respectively 
+(NEERI Report (1996) strategy 
+paper on SWM in India, 1995). Table 
+4 (Status of solid waste generation, collection, 
+treatment and disposal in metro 
+cities, CPCB 2000a) highlights the differences 
+in MSW characteristics, with 
+the effect of urbanization and development 
+in various Indian metrocities. The 
+major fraction of MSW in urban areas 
+is compostable matter (40%-60%) and 
+inert materials (30%-50%). However, 
+there is a gradual increase in the relative 
+percentage of organic matter present in 
+the MSW, with a decrease in socio-economic 
+status (Sharholy et al. 2008). 
+Apart from that, in the various developed 
+cities and towns, the rapid increase 
+in the number of marketplaces (fish 
+market, fruit and vegetables market, 
+etc.) is also massively contributing to 
+the quantity of organic fraction in the 
+generated MSW, on a daily basis. AD is 
+mainly concerned with the presence of 
+organic material in the MSW to be treated. 
+Hence, it can be a suitable methodology 
+for treatment of the OFMSW in various 
+suburban, as well as urban, areas of 
+India. 
+In many metropolitan cities and towns 
+of India, there are numerous scenarios 
+of open and uncontrolled dumping of 
+MSW. More than 90% of the generated 
+MSW is directly disposed of on land 
+in an unsatisfactory manner (Das et al. 
+1998). The shortage of land in the large 
+and congested towns or cities, like Delhi, 
+also contributes to unsatisfactory 
+landfilling activities (Mor et al. 2006; 
+Siddiqui et al. 2006; Sharholy et al. 
+2006; Gupta et al. 1998; Kansal et al. 
+1998). Selection of landfill sites far 
+away from these cities may upset the 
+viability of the operation owing to significant 
+increase in transportation costs 
+(Singh et al. 2011). The principles of 
+sanitary landfilling are seldom followed 
+as the generated MSW is disposed of 
+by filling in low-lying areas (Singh et 
+al. 2011; Sharholy et al. 2008). Unlike 
+the developed countries, in developing 
+countries, such as India, the system of 
+landfilling is neither properly managed 
+nor is it techno-economically feasible. 
+The important practices pertaining to 
+landfilling operation, such as lining of 
+suitable membrane liners along the excavated 
+portions, compaction and levelling 
+of waste, final covering by earth 
+material, etc., are rarely observed. Absence 
+of suitable leachate collection system 
+leads to contamination of ground 
+and surface water (Bhide and Shekdar 
+1998; Gupta et al. 1998). In coastal 
+towns, improper and unsatisfactory 
+landfilling leads to rapid leaching of 
+heavy metals and toxic substances into 
+the coastal waters (Singh et al. 2011; 
+Sharholy et al. 2008). Also, the absence 
+of proper landfill gas monitoring and 
+collection equipment may sometimes 
+lead to spontaneous ignition or explosions, 
+due to high concentrations 
+methane buildup in the atmosphere 
+(Singh et al. 2011). Apart from that, the 
+uncontrolled emission of the GHG into 
+the atmosphere significantly contributes 
+to global warming. In some instances, 
+landfill sites meant for domestic waste 
+are also found to be filled with industrial 
+waste (Datta 1997). In India, landfilling 
+is a widely practiced mode of MSW disposal. 
+Hence, the previously mentioned 
+problems project landfilling as a not-soefficient 
+technology in the management 
+of MSW. Therefore, a suitable method- 
+
+37
+
+
+
+ology, such as that of AD, is the most 
+obvious and effective substitute for 
+landfilling, particularly for future scenarios 
+in India. 
+Also, other processes of MSW management, 
+such as composting, thermal incineration, 
+and pyrolysis or gasification, 
+have not been able to completely solve 
+the problems associated with the comprehensive 
+management and handling of 
+MSW. In the case of pyrolysis or gasification, 
+which necessarily takes place 
+under sub-stoichiometric condition 
+(gasification) or in the complete absence 
+of oxygen (pyrolysis or destructive distillation), 
+the production of the gaseous 
+product largely depends on the nature 
+of the MSW to be treated. MSW has 
+been reported to constitute 15%-63% of 
+FW worldwide (Kim et al. 2009). FWs 
+are characterized by moisture content as 
+high as 75%-93%. Excessive moisture 
+adversely affects the net energy recovery. 
+As such, the OFMSW usually possesses 
+a high quantity of moisture, 
+which is why pyrolysis or gasification 
+cannot be looked upon as a superior 
+method for the stabilization of the OFMSW. 
+Moreover, the generated pyrolysis 
+oil, by virtue of its high viscosity, often 
+poses different problems during its 
+transportation and burning (Singh et al. 
+2011). In contrast to pyrolysis or gasification, 
+thermal incineration requires 
+auxiliary fuel support to sustain the 
+process of combustion. The thermal energy 
+produced can only be utilized in 
+heating boilers. Moreover, there is an 
+involvement of high capital and operation 
+and maintenance cost, in addition 
+to the requirement of skilled personnel. 
+This is because the control of the release 
+of harmful gases and particulate matter 
+into the atmosphere requires wellequipped 
+incinerators and other appropriate 
+pollution control accessories. In 
+addition, the overall efficiency in the 
+case of small power stations is extremely 
+low. Unlike thermal incineration, the 
+process of AD does not require any external 
+supply of oxygen, nor is there any 
+chance of noxious gas release into the 
+atmosphere and the scope of marketing 
+the end products is also positive. Hence, 
+compared to sanitary landfilling and 
+thermal incineration, the techno-economic 
+viability of AD can be regarded 
+as the best option of MSWM in a developing 
+country like India. 
+Fig. 6. Physical characterizations 
+of MSWs in Indian cities withpopulation 
+range above 5 million.paper 
+4.71%rubber, 
+leather and synthetics 
+0.71%glass 
+0.46%metals 
+0.49%total compostable matter 
+38.95%inert 
+9.95%others 
+44.73%Note: Table made from pie 
+chart.Fig. 7. Chemical characterizations 
+of MSWs in Indian cities withpopulation 
+range above 5 million.
+moisture 
+38.72%zorganic matter 
+39.07%nitrogen as total nitrogen 
+0.56%phosphorous as 
+0.52%phosphorous pentoxidepotassium 
+as potassiumoxide 
+0.52%others 
+20.61%Note: 
+Table made from pie chart. 
+Since the 1960s the process of composting 
+has gained considerable importance 
+in India. This practice was encouraged 
+in the early initiatives of the Government 
+of India in the management of 
+MSW in urban areas (Sharholy et al. 
+2008). Composting can be defined as 
+the biological decomposition of the 
+biodegradable OFMSW under controlled 
+conditions to a state sufficiently 
+stable for nuisance-free storage and handling, 
+and for safe use in land applications. 
+Composting has the ability to 
+reduce waste volume by 50%-85% 
+(Sharholy et al. 2008). Even though a 
+considerable number of treatment plants 
+have been built in various key places 
+in India, such as Delhi, Bangalore, 
+Ahmedabad, Hyderabad, Bhopal, Lucknow, 
+Gwalior, Indore, Baroda, Mumbai, 
+Kolkata, Jaipur, and Kanpur, the 
+long-term acceptability of the process is 
+on a gradual decline because of several 
+inherent problems. This is attributed to 
+the facts that a large area is required for 
+the construction of a composting plant, 
+external supply of oxygen is required 
+in the case of aerobic composting, and 
+leachate management is required in 
+some cases. Apart from that, other important 
+issues associated with composting 
+include improper control, in the case 
+of windrow composting, leading to 
+spreading of biological odors and improper 
+management, leading to the potential 
+existence of pathogens in the 
+marketed products. In this context, involvement 
+of shredders may lead to 
+heavy metal toxicity in the marketed 
+products. Unlike AD, composting does 
+not facilitate the production of methane 
+and hydrogen. It is evident from the literature 
+that composting in India constitutes 
+only 9% of the MSW treatment. 
+Hence, there is a definite possibility of 
+AD being perceived as a better and more 
+efficient technology, thereby substituting 
+the process of composting. 
+
+
+11. Overall future prospect of AD of OFMSW 
+
+As discussed earlier, since the discovery 
+of MSW undergoing AD in sanitary 
+landfills in the early 1970s, the process 
+witnessed several improvements in the 
+
+38
+
+
+
+next decade and a half (i.e., between 
+mid-1970s and 1990). This invariably 
+resulted in the development of different 
+systems, such as "Valorga" (de Laclos 
+et al. 1997), "Kompogas" (Wellinger et 
+al. 1993), "Dranco" (Six and De Baere 
+1992), "BRV" (Lissens et al. 2001), and 
+"BTA" (Verma 2002; Rahn and Gandolfi 
+2007), capable of treating the solid 
+organic waste in an anaerobic environment. 
+Further, pilot- and lab-scale studies 
+based on those processes eventually 
+led to the construction of numerous 
+commercial plants across Europe 
+(Netherlands, Switzerland, Belgium, 
+Italy, Spain, Germany, UK, France, etc.) 
+and North America (USA, Canada). The 
+crucial modifications, which essentially 
+proved to be imperative in the development 
+of this process, include shifting 
+to the thermophilic temperature regime 
+from the mesophilic temperature 
+regime, improvement of the startup 
+phase by employment of certain inoculum, 
+application of several types of enzymes 
+for increasing the rate of degradation 
+of the OFMSW during the hydrolysis 
+stage, subjecting the OFMSW 
+to different types of pre-treatment prior 
+to the main digestion process, and adoption 
+of several types of sorting techniques 
+(SS, MS, WS) in segregating or 
+separating the OFMSW prior to treatment. 
+Another major modification of 
+AD for the stabilization of OFMSW was 
+co-digestion. At the beginning, when 
+OFMSW was digested alone, there was 
+a noticeable failure regarding the gas 
+production. The importance of co-digestion 
+was not discovered until the studies 
+conducted by Golueke and McGadhey 
+(1971) and Pfeffer and Liebmann (1976) 
+demonstrated the advantages of mixing 
+MSW and sewage sludge, with regard 
+to improving the process efficiency and 
+enhancing the gas production (Cecchi 
+and Traverso 1986). The importance of 
+co-digestion or mixing of the OFMSW 
+(substrate) with another type co-substrate 
+is essentially attributed to the fact 
+that the consortium of bacteria responsible 
+for the degradation and eventual 
+conversion of the waste into biogas become 
+rapidly acclimated. Also, in some 
+cases when there is not enough initial 
+moisture available in the MSW to be 
+treated, co-digestion helps in the compensation 
+of the moisture quantity up to 
+the desirable level, by the addition of 
+another moisture-rich substrate, thereby 
+emphasizing the importance of hydrolysis, 
+as the rate-limiting step. Compensation 
+of the essential nutrients required 
+for the operational stability of the overall 
+process is also another facet of co-digestion, 
+which can be considered as vital. 
+Apart from enhancing the gas production 
+and rendering operational stability, 
+co-digestion has also proved to 
+be economically advantageous because 
+it has provided the scope for treating 
+two or more types of waste in a single 
+facility by sharing the same equipment, 
+thereby enabling easier handling of 
+mixed waste and increasing the economy 
+of sale (Mata-Alvarez et al. 2000). 
+The ability of AD to treat a large amount 
+of municipal solid organic waste within 
+a small space also provides significant 
+leeway in the efficient handling of whatever 
+quantity of waste is generated on a 
+daily basis in a particular town or city. 
+The mushroom-like development of 
+cities and towns are creating a "spacecrunch" 
+for sustaining classical methods 
+of disposal (like landfilling, composting). 
+Furthermore, the management and 
+operational problems associated with 
+sanitary landfilling, pyrolysis or gasification, 
+thermal incineration, and composting 
+have led to the increased acceptability 
+of AD. AD is superior to pyrolysis 
+or gasification, in treating organic 
+waste with low calorific-value (generated 
+in large quantities in a developing 
+country like India). Also, unlike thermal 
+incineration it does not require an external 
+supply of air for sustaining the 
+operation. Apart from that, the closed 
+or sealed operational environment prevents 
+the escape of leachate and GHG, 
+unlike composting and thermal incineration. 
+Thus it can be concluded that techno-
+economic viability of AD is greater 
+than other conventional MSWM techniques. 
+As mentioned before, AD requires 
+a smaller space in comparison to 
+other processes for treatment of an enormous 
+quantity of waste, thereby reducing 
+the carbon footprint. 
+The biogas produced from AD can be 
+used for generating electricity with the 
+help of high quality, costly fuel cells. It 
+accounts for 0.5% of the electricity generation 
+in the UK and 1% of the electricity 
+output in the USA (Xuereb 1997). 
+As well, the produced biogas can be directly 
+used up to generate electricity and 
+steam. However, the economic viability 
+of generating electricity through this 
+produced biogas is still under question, 
+owing to the involvement of the costly 
+fuel cells. Apart from generating electricity, 
+the biogas is also viewed as an 
+environmentally attractive alternative to 
+diesel and gasoline for operating public 
+transit systems, and in the operation of 
+internal combustion engines. It is used 
+in the same manner as compressed natural 
+gas for fueling light- and heavy-duty 
+vehicles. It has been reported that usage 
+of biogas as a substitute for diesel 
+and gasoline has greatly reduced the 
+emission of fumes and [NO.sub.x] from 
+automobile exhaust. In addition, the 
+sound generated from methane-powered 
+engines is generally much lower than 
+diesel-operated engines, thereby con- 
+
+39
+
+
+
+trolling noise pollution. The hydrogen 
+produced has a wide spectrum of applications 
+as an energy source at both the 
+industrial and commercial levels. The 
+aforesaid form of non-conventional energy 
+plays a crucial role in mitigating 
+the present and future energy crisis. The 
+sludge produced also can be used as an 
+effective soil conditioner. Instead of 
+costly chemical fertilizers, farmers can 
+look forward to using this inexpensive 
+soil conditioner, thereby preventing 
+degradation of the soil quality. Today it 
+is clear that overdoses of chemical or inorganic 
+fertilizers jeopardize soil quality 
+and endanger crop life, due to the increased 
+toxicity levels of certain chemicals. 
+In addition, surface runoff can adversely 
+affect aquatic life. Hence, it is 
+advisable to use this naturally procured 
+soil conditioner as an organic amendment 
+for the betterment or safeguard of 
+the environment. The production of a 
+number of commercial and full-scale 
+plants based on the AD of OFMSW 
+across the globe is a certain indication of 
+the credibility of the process to be an indispensable 
+form of MSWM technique 
+as well as an energy-generating option 
+for the future. 
+
+
+12. Concluding remarks 
+
+The present review clearly reveals the 
+importance of AD of OFMSW in terms 
+of its compatibility in stabilizing OFMSW. 
+The various advantages of AD, 
+such as low requirement of space and 
+driving energy, zero emission of GHG, 
+and the ability to treat huge quantities of 
+waste, makes it an obvious choice over 
+other conventional MSWM techniques. 
+It can be concluded that with the gradual 
+development of this process many new 
+modifications, such as co-digestion with 
+several types of other wastes and adequate 
+mixing and pre-treatment of the 
+OFMSW prior to AD, have resulted in a 
+wide range of environmental footprints. 
+Improvement of the startup phase by 
+employing certain inoculum, adopting 
+various sorting techniques, and selection 
+of thermophilic rather than mesophilic 
+temperature regimes has ultimately resulted 
+in a substantial enhancement of 
+biogas production and a volumetric reduction 
+of the generated OFMSW. As 
+far as the energy utilization is concerned, 
+from electricity generation to 
+powering of automobiles, all these can 
+be supported by AD of OFMSW. All of 
+these essentialities coupled with many 
+other factors make AD of OFMSW a 
+basic tool in terms of comprehensive 
+MSWM. Nevertheless, the process has 
+not yet been implemented on a large 
+scale in developing countries, due to a 
+relatively high initial cost and sophisticated 
+operation and maintenance. Other 
+reasons, which have possibly prevented 
+the large-scale implementation of AD of 
+OFMSW, are the sensitivity of the reactors 
+to pH and temperature and the storage 
+of the produced gas, all of which require 
+efficient monitoring. If all of these 
+factors are provided for, AD may prove 
+to be an invaluable technology for the 
+treatment of the MSW in both developing 
+and developed countries all over the 
+world.
+
+40
+
+
